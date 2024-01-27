@@ -1,0 +1,29 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+    --primary: #228b22; /* Forest Green */
+    --secondary: #f5f5f5; /* Sandy Beige */
+    --accent: #d2b48c; /* Honey Mustard */
+    --text-strong: #333; /* Dark Gray (for text) */
+    --text-light: #999; /* Light Gray (for secondary text) */
+  }
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Poppins', sans-serif;
+  background-color: var(--secondary);
+  color: var(--text-strong);
+
+}
+
+/* Earthy palette colors */
+
+
+/* Apply background color */
+
