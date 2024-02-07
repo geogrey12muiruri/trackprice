@@ -1,3 +1,7 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;400;500;700&display=swap');
+
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
@@ -16,7 +20,7 @@
 }
 
 body {
-  font-family: 'Poppins', sans-serif;
+  font-family: 'Roboto', sans-serif;
   background-color: var(--secondary);
   color: var(--text-strong);
 

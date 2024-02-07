@@ -1,0 +1,91 @@
+.commodity-info {
+    display: flex;
+    align-items: center;
+  }
+  
+  .commodity-image {
+    width: 80px; /* Adjust the width as needed */
+    height: 80px; /* Adjust the height as needed */
+    object-fit: cover;
+    border-radius: 50%;
+    margin-right: 1rem;
+  }
+  /* commodity.css */
+
+/* ... other styles ... */
+
+.vertical-line {
+  width: 2px;
+  height: 100%;
+  background-color: #ddd; /* Adjust color as needed */
+  margin-left: 8px; /* Adjust spacing between items */
+}
+
+.commodity-item:hover .vertical-line {
+  background-color: #555; /* Adjust hover color as needed */
+}
+/* commodity.css */
+
+/* ... other styles ... */
+
+.commodity-item {
+  display: flex;
+  align-items: center;
+  padding: 8px;
+}
+
+.vertical-line {
+  width: 2px;
+  height: 100%;
+  background-color: #d36d6d; /* Adjust color as needed */
+  margin: 0 8px; /* Adjust spacing between items */
+}
+/* commodity.css */
+
+/* ... other styles ... */
+
+.commodities-section {
+  overflow-x: auto; /* Enable horizontal scrolling if needed */
+}
+
+.grid {
+  display: flex;
+  flex-wrap: nowrap; /* Prevent wrapping */
+}
+
+.commodity-item {
+  display: flex;
+  align-items: center;
+  padding: 8px;
+}
+
+.vertical-line {
+  width: 2px;
+  height: 100%;
+  background-color: #ddd; /* Adjust color as needed */
+  margin: 0 8px; /* Adjust spacing between items */
+}
+/* commodity.css */
+
+/* ... other styles ... */
+
+.commodities-section {
+  overflow-x: auto; /* Enable horizontal scrolling if needed */
+}
+
+.grid {
+  display: flex;
+}
+
+.commodity-item {
+  display: flex;
+  align-items: center;
+  padding: 8px;
+}
+
+.vertical-line {
+  width: 2px;
+  height: 100%;
+  background-color: #942323; /* Adjust color as needed */
+  margin: 0 8px; /* Adjust spacing between items */
+}
