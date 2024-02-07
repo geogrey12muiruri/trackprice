@@ -1,24 +1,26 @@
-import Carousel from "./components/carousel/Carousel"
-import Featured from "./components/featured/Featured"
-import Navbar from "./components/nav/Navbar"
-import Highlights from "./components/highlights/Highlights"
-import Commodity from "./components/commodities/Commodity"
-
-
+import { BrowserRouter, Routes, Route } from "react-router-dom";
+import Carousel from "./components/carousel/Carousel";
+import Featured from "./components/featured/Featured";
+import Navbar from "./components/nav/Navbar";
+import Highlights from "./components/highlights/Highlights";
+import Commodity from "./components/commodities/Commodity";
+import Home from "./components/home/Home";
 
 function App() {
-  
-
   return (
     <div className="App">
-    <Commodity />
-      <Navbar />
-      <Carousel />
-      <Featured />
-      <Highlights />
- 
+      <BrowserRouter>
+        <Commodity />
+        <Navbar />
+        <Routes>
+          <Route path="/" element={<Home />} />
+          <Route path="/carousel" element={<Carousel />} />
+          <Route path="/featured" element={<Featured />} />
+          <Route path="/highlights" element={<Highlights />} />
+        </Routes>
+      </BrowserRouter>
     </div>
-  )
+  );
 }
 
-export default App
+export default App;

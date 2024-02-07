@@ -18,6 +18,15 @@
   padding: 0;
   box-sizing: border-box;
 }
+@layer utilities {
+  .nav{
+      @apply relative ml-10 text-gray-500 font-mono font-bold hover:text-white
+  }
+
+  .nav::after{
+      @apply content-[''] absolute left-0  bg-green-500   h-[3px] w-[100%] -bottom-[5px] rounded-xl
+  }
+}
 
 body {
   font-family: 'Roboto', sans-serif;
