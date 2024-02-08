@@ -1,0 +1,6489 @@
+{
+    "county": [
+    {
+    "id": 35,
+    "name": "Baringo",
+    "code": "30"
+    },
+    {
+    "id": 2,
+    "name": "Bomet",
+    "code": "36"
+    },
+    {
+    "id": 3,
+    "name": "Bungoma",
+    "code": "39"
+    },
+    {
+    "id": 4,
+    "name": "Busia",
+    "code": "40"
+    },
+    {
+    "id": 5,
+    "name": "Elgeyo Marakwet",
+    "code": "28"
+    },
+    {
+    "id": 6,
+    "name": "Embu",
+    "code": "14"
+    },
+    {
+    "id": 7,
+    "name": "Garrisa",
+    "code": "7"
+    },
+    {
+    "id": 8,
+    "name": "Homabay",
+    "code": "43"
+    },
+    {
+    "id": 19,
+    "name": "Isiolo",
+    "code": "11"
+    },
+    {
+    "id": 39,
+    "name": "Kajiado",
+    "code": "34"
+    },
+    {
+    "id": 30,
+    "name": "Kakamega",
+    "code": "37"
+    },
+    {
+    "id": 40,
+    "name": "Kericho",
+    "code": "35"
+    },
+    {
+    "id": 28,
+    "name": "Kiambu",
+    "code": "22"
+    },
+    {
+    "id": 12,
+    "name": "Kilifi",
+    "code": "3"
+    },
+    {
+    "id": 26,
+    "name": "Kirinyaga",
+    "code": "20"
+    },
+    {
+    "id": 43,
+    "name": "Kisii",
+    "code": "45"
+    },
+    {
+    "id": 41,
+    "name": "Kisumu",
+    "code": "42"
+    },
+    {
+    "id": 22,
+    "name": "Kitui",
+    "code": "15"
+    },
+    {
+    "id": 11,
+    "name": "Kwale",
+    "code": "2"
+    },
+    {
+    "id": 36,
+    "name": "Laikipia",
+    "code": "31"
+    },
+    {
+    "id": 14,
+    "name": "Lamu",
+    "code": "5"
+    },
+    {
+    "id": 1,
+    "name": "Machakos",
+    "code": "16"
+    },
+    {
+    "id": 23,
+    "name": "Makueni",
+    "code": "17"
+    },
+    {
+    "id": 17,
+    "name": "Mandera",
+    "code": "9"
+    },
+    {
+    "id": 18,
+    "name": "Marsabit",
+    "code": "10"
+    },
+    {
+    "id": 20,
+    "name": "Meru",
+    "code": "12"
+    },
+    {
+    "id": 42,
+    "name": "Migori",
+    "code": "44"
+    },
+    {
+    "id": 10,
+    "name": "Mombasa",
+    "code": "1"
+    },
+    {
+    "id": 27,
+    "name": "Murang'a",
+    "code": "21"
+    },
+    {
+    "id": 9,
+    "name": "Nairobi",
+    "code": "47"
+    },
+    {
+    "id": 37,
+    "name": "Nakuru",
+    "code": "32"
+    },
+    {
+    "id": 34,
+    "name": "Nandi",
+    "code": "29"
+    },
+    {
+    "id": 38,
+    "name": "Narok",
+    "code": "33"
+    },
+    {
+    "id": 48,
+    "name": "National",
+    "code": "254"
+    },
+    {
+    "id": 44,
+    "name": "Nyamira",
+    "code": "46"
+    },
+    {
+    "id": 24,
+    "name": "Nyandarua ",
+    "code": "18"
+    },
+    {
+    "id": 25,
+    "name": "Nyeri",
+    "code": "19"
+    },
+    {
+    "id": 49,
+    "name": "Other Counties",
+    "code": "49"
+    },
+    {
+    "id": 31,
+    "name": "Samburu",
+    "code": "25"
+    },
+    {
+    "id": 45,
+    "name": "Siaya",
+    "code": "41"
+    },
+    {
+    "id": 15,
+    "name": "Taita Taveta",
+    "code": "6"
+    },
+    {
+    "id": 13,
+    "name": "Tana River",
+    "code": "4"
+    },
+    {
+    "id": 21,
+    "name": "Tharaka-Nithi",
+    "code": "13"
+    },
+    {
+    "id": 32,
+    "name": "Trans-Nzoia",
+    "code": "26"
+    },
+    {
+    "id": 29,
+    "name": "Turkana",
+    "code": "23"
+    },
+    {
+    "id": 33,
+    "name": "Uasin Gishu",
+    "code": "27"
+    },
+    {
+    "id": 46,
+    "name": "Vihiga",
+    "code": "38"
+    },
+    {
+    "id": 16,
+    "name": "Wajir",
+    "code": "8"
+    },
+    {
+    "id": 47,
+    "name": "West Pokot",
+    "code": "24"
+    }
+    ],
+    "subsector": [
+    {
+    "id": 1,
+    "name": "Crops",
+    "codingsystem": "A",
+    "description": ""
+    },
+    {
+    "id": 9,
+    "name": "Early Warning, Nutrition and Food Security",
+    "codingsystem": "H",
+    "description": ""
+    },
+    {
+    "id": 3,
+    "name": "Fisheries",
+    "codingsystem": "C",
+    "description": ""
+    },
+    {
+    "id": 6,
+    "name": "Investments and Financing",
+    "codingsystem": "E",
+    "description": ""
+    },
+    {
+    "id": 5,
+    "name": "Land, Inputs, Sustainability",
+    "codingsystem": "D",
+    "description": ""
+    },
+    {
+    "id": 2,
+    "name": "Livestock",
+    "codingsystem": "B",
+    "description": ""
+    },
+    {
+    "id": 7,
+    "name": "Population and Employment",
+    "codingsystem": "F",
+    "description": ""
+    },
+    {
+    "id": 12,
+    "name": "Prices",
+    "codingsystem": "J",
+    "description": ""
+    },
+    {
+    "id": 8,
+    "name": "Services",
+    "codingsystem": "G",
+    "description": ""
+    },
+    {
+    "id": 11,
+    "name": "Trade",
+    "codingsystem": "I",
+    "description": ""
+    }
+    ],
+    "domain": [
+    {
+    "id": 1,
+    "name": "CropsProductivity",
+    "display_name": "Productivity",
+    "codingsystem": "AA",
+    "description": "",
+    "subsector": 1
+    },
+    {
+    "id": 13,
+    "name": "Direct Foreign Investments",
+    "display_name": "Direct Foreign Investments",
+    "codingsystem": "EB",
+    "description": "",
+    "subsector": 6
+    },
+    {
+    "id": 38,
+    "name": "Economic Performance",
+    "display_name": "Economic Performance",
+    "codingsystem": "EA",
+    "description": "",
+    "subsector": 6
+    },
+    {
+    "id": 36,
+    "name": "FisheriesProductivity",
+    "display_name": "Productivity",
+    "codingsystem": "CA",
+    "description": "",
+    "subsector": 3
+    },
+    {
+    "id": 11,
+    "name": "Inputs",
+    "display_name": "Inputs",
+    "codingsystem": "DA",
+    "description": "",
+    "subsector": 5
+    },
+    {
+    "id": 37,
+    "name": "Land",
+    "display_name": "Forestry, Land",
+    "codingsystem": "DB",
+    "description": "",
+    "subsector": 5
+    },
+    {
+    "id": 28,
+    "name": "LivestockProductivity",
+    "display_name": "Productivity",
+    "codingsystem": "BA",
+    "description": "",
+    "subsector": 2
+    },
+    {
+    "id": 47,
+    "name": "Macro Economic Indicators",
+    "display_name": "Macro Economic Indicators",
+    "codingsystem": null,
+    "description": "",
+    "subsector": 6
+    },
+    {
+    "id": 44,
+    "name": "Market Prices (Commodities)",
+    "display_name": "Market Prices (Commodities)",
+    "codingsystem": "FA",
+    "description": "",
+    "subsector": 12
+    },
+    {
+    "id": 39,
+    "name": "Nutrition",
+    "display_name": "Nutrition",
+    "codingsystem": "HA",
+    "description": "",
+    "subsector": 9
+    },
+    {
+    "id": 46,
+    "name": "Population",
+    "display_name": "Population",
+    "codingsystem": null,
+    "description": "",
+    "subsector": 7
+    },
+    {
+    "id": 43,
+    "name": "TradePrimarySupply",
+    "display_name": "Primary Supply",
+    "codingsystem": "IA",
+    "description": "",
+    "subsector": 11
+    }
+    ],
+    "domainelement": [
+    {
+    "id": 94,
+    "name": "AnnualInflation",
+    "display_name": "Annual Inflation",
+    "codingsystem": "ZZ7",
+    "description": "",
+    "domain": 38
+    },
+    {
+    "id": 1,
+    "name": "CropsPrimary",
+    "display_name": "Crops Primary",
+    "codingsystem": "AAA",
+    "description": "",
+    "domain": 1
+    },
+    {
+    "id": 121,
+    "name": "CropsProcessedProductivity",
+    "display_name": "Crops Processed",
+    "codingsystem": null,
+    "description": "",
+    "domain": 1
+    },
+    {
+    "id": 88,
+    "name": "DevelopmentFlowinAgriculture",
+    "display_name": "Development Flow in Agriculture",
+    "codingsystem": "ZZ13",
+    "description": "",
+    "domain": 38
+    },
+    {
+    "id": 111,
+    "name": "ExportQuantitySupplyCrops",
+    "display_name": "Export Quantity (Crops)",
+    "codingsystem": null,
+    "description": "",
+    "domain": 43
+    },
+    {
+    "id": 16,
+    "name": "Fertilizer",
+    "display_name": "Fertilizer",
+    "codingsystem": "ZZ25",
+    "description": "",
+    "domain": 11
+    },
+    {
+    "id": 90,
+    "name": "ForestArea",
+    "display_name": "Forest Area",
+    "codingsystem": "ZZ11",
+    "description": "",
+    "domain": 37
+    },
+    {
+    "id": 93,
+    "name": "GDP",
+    "display_name": "Gross Domestic Product",
+    "codingsystem": "ZZ8",
+    "description": "",
+    "domain": 38
+    },
+    {
+    "id": 122,
+    "name": "ImportQuantityTradeCrops",
+    "display_name": "Import Quantity (Crops)",
+    "codingsystem": null,
+    "description": "",
+    "domain": 43
+    },
+    {
+    "id": 123,
+    "name": "ImportValueCropsTrade",
+    "display_name": "Import Value (Crops)",
+    "codingsystem": null,
+    "description": "",
+    "domain": 43
+    },
+    {
+    "id": 95,
+    "name": "InterestRates",
+    "display_name": "Interest Rates",
+    "codingsystem": "ZZ6",
+    "description": "",
+    "domain": 38
+    },
+    {
+    "id": 73,
+    "name": "LivestockPrimary",
+    "display_name": "Livestock Primary",
+    "codingsystem": "ZZ20",
+    "description": "",
+    "domain": 28
+    },
+    {
+    "id": 92,
+    "name": "LivestockProducts",
+    "display_name": "Livestock Products",
+    "codingsystem": "ZZ9",
+    "description": "",
+    "domain": 28
+    },
+    {
+    "id": 110,
+    "name": "MarketPricesWholesalePrices",
+    "display_name": "Wholesale Prices",
+    "codingsystem": null,
+    "description": "",
+    "domain": 44
+    },
+    {
+    "id": 118,
+    "name": "PercentageContributionToGDPMacroEconomicIndicators",
+    "display_name": "Percentage Contribution to GDP",
+    "codingsystem": null,
+    "description": "",
+    "domain": 47
+    },
+    {
+    "id": 116,
+    "name": "Population Growth",
+    "display_name": "Population Growth",
+    "codingsystem": null,
+    "description": "",
+    "domain": 46
+    },
+    {
+    "id": 115,
+    "name": "Population Size",
+    "display_name": "Population Size",
+    "codingsystem": null,
+    "description": "",
+    "domain": 46
+    },
+    {
+    "id": 26,
+    "name": "PowerElectricityNonrenewableRenewables",
+    "display_name": "Power (Electricity, Nonrenewable, Renewables)",
+    "codingsystem": "ZZ23",
+    "description": "",
+    "domain": 11
+    },
+    {
+    "id": 97,
+    "name": "ProductionQuantityFisheries",
+    "display_name": "Production Quantity",
+    "codingsystem": "ZZ5",
+    "description": "",
+    "domain": 36
+    },
+    {
+    "id": 71,
+    "name": "Seeds and Seedlings",
+    "display_name": "Seeds and Seedlings",
+    "codingsystem": "ZZ22",
+    "description": "",
+    "domain": 11
+    },
+    {
+    "id": 119,
+    "name": "Semen Farmers Uptake",
+    "display_name": "Semen (Farmers Uptake)",
+    "codingsystem": null,
+    "description": "",
+    "domain": 11
+    },
+    {
+    "id": 120,
+    "name": "Semen Supply",
+    "display_name": "Semen Supply",
+    "codingsystem": null,
+    "description": "",
+    "domain": 11
+    },
+    {
+    "id": 117,
+    "name": "ShareOfGDPMacroEconomicIndicators",
+    "display_name": "Share of GDP",
+    "codingsystem": null,
+    "description": "",
+    "domain": 47
+    },
+    {
+    "id": 112,
+    "name": "Stunting",
+    "display_name": "Stunting",
+    "codingsystem": null,
+    "description": "",
+    "domain": 39
+    },
+    {
+    "id": 113,
+    "name": "Underweight",
+    "display_name": "Underweight",
+    "codingsystem": null,
+    "description": "",
+    "domain": 39
+    },
+    {
+    "id": 114,
+    "name": "Wasting",
+    "display_name": "Wasting",
+    "codingsystem": null,
+    "description": "",
+    "domain": 39
+    }
+    ],
+    "elementitem": [
+    {
+    "id": 62,
+    "name": "Average Monthly Prices",
+    "display_name": "Average Monthly Prices",
+    "codingsystem": null,
+    "description": "",
+    "domainelement": 110
+    },
+    {
+    "id": 113,
+    "name": "CaneDeliveriesCropsPrimary",
+    "display_name": "Cane Deliveries",
+    "codingsystem": null,
+    "description": "",
+    "domainelement": 1
+    },
+    {
+    "id": 33,
+    "name": "CentralBankofKenya",
+    "display_name": "Central Bank of Kenya",
+    "codingsystem": "ZABC6",
+    "description": "",
+    "domainelement": 95
+    },
+    {
+    "id": 34,
+    "name": "CommercialBanksWeightedAverageInterestRates",
+    "display_name": "Commercial Banks Weighted Average Interest Rates",
+    "codingsystem": "ZABC5",
+    "description": "",
+    "domainelement": 95
+    },
+    {
+    "id": 20,
+    "name": "CommunityForestArea",
+    "display_name": "Community Forest Area",
+    "codingsystem": "ZABC7",
+    "description": "",
+    "domainelement": 90
+    },
+    {
+    "id": 116,
+    "name": "CostInsuranceFreightCIFValueImportValue",
+    "display_name": "Cost, Insurance and Freight (CIF) Value",
+    "codingsystem": null,
+    "description": "",
+    "domainelement": 123
+    },
+    {
+    "id": 1,
+    "name": "CropArea",
+    "display_name": "Crop Area",
+    "codingsystem": "ZABC21",
+    "description": "",
+    "domainelement": 1
+    },
+    {
+    "id": 115,
+    "name": "CropsPrimaryImportQuantity",
+    "display_name": "Crops Primary",
+    "codingsystem": null,
+    "description": "",
+    "domainelement": 122
+    },
+    {
+    "id": 63,
+    "name": "CropsPrimarySupplyTradeCrops",
+    "display_name": "Crops Primary (Trade)",
+    "codingsystem": null,
+    "description": "",
+    "domainelement": 111
+    },
+    {
+    "id": 64,
+    "name": "CropsProcessedSupplyTradeCrops",
+    "display_name": "Crops Processed (Trade)",
+    "codingsystem": null,
+    "description": "",
+    "domainelement": 111
+    },
+    {
+    "id": 2,
+    "name": "CropsProductionQuantity",
+    "display_name": "Production Quantity",
+    "codingsystem": "ZABC20",
+    "description": "",
+    "domainelement": 1
+    },
+    {
+    "id": 3,
+    "name": "CropsYield",
+    "display_name": "Yield",
+    "codingsystem": "ZABC19",
+    "description": "",
+    "domainelement": 1
+    },
+    {
+    "id": 58,
+    "name": "CrusteceaProdQuantityFisheries",
+    "display_name": "Crustecea",
+    "codingsystem": null,
+    "description": "",
+    "domainelement": 97
+    },
+    {
+    "id": 107,
+    "name": "FarmersUptakeLocalSemenADC",
+    "display_name": "Local Semen - ADC",
+    "codingsystem": null,
+    "description": "",
+    "domainelement": 119
+    },
+    {
+    "id": 108,
+    "name": "FarmersUptakeLocalSemenKAGRC",
+    "display_name": "FarmersUptake",
+    "codingsystem": null,
+    "description": "",
+    "domainelement": 119
+    },
+    {
+    "id": 29,
+    "name": "FertilizerApparentConsumption",
+    "display_name": "Fertilizer Apparent Consumption",
+    "codingsystem": "ZABC10",
+    "description": "",
+    "domainelement": 16
+    },
+    {
+    "id": 59,
+    "name": "FreshWaterFishProdQuantityFisheries",
+    "display_name": "Fresh Water Fish",
+    "codingsystem": null,
+    "description": "",
+    "domainelement": 97
+    },
+    {
+    "id": 32,
+    "name": "GazettedForestArea",
+    "display_name": "Gazetted Forest Area",
+    "codingsystem": "ZABC8",
+    "description": "",
+    "domainelement": 90
+    },
+    {
+    "id": 35,
+    "name": "GDPContribution",
+    "display_name": "GDP Contribution",
+    "codingsystem": "ZABC4",
+    "description": "",
+    "domainelement": 93
+    },
+    {
+    "id": 51,
+    "name": "Growthrate",
+    "display_name": "Growth Rate",
+    "codingsystem": "ZABC1",
+    "description": "",
+    "domainelement": 93
+    },
+    {
+    "id": 106,
+    "name": "ImportedSemenFarmersUptake",
+    "display_name": "Imported semen",
+    "codingsystem": null,
+    "description": "",
+    "domainelement": 119
+    },
+    {
+    "id": 37,
+    "name": "InflationRate",
+    "display_name": "Inflation Rate",
+    "codingsystem": "ZABC3",
+    "description": "",
+    "domainelement": 94
+    },
+    {
+    "id": 28,
+    "name": "KenyaODA",
+    "display_name": "Kenya ODA",
+    "codingsystem": "ZABC11",
+    "description": "",
+    "domainelement": 88
+    },
+    {
+    "id": 6,
+    "name": "LivestockPopulation",
+    "display_name": "Population",
+    "codingsystem": "ZABC17",
+    "description": "",
+    "domainelement": 73
+    },
+    {
+    "id": 4,
+    "name": "LivestockProductionQuantity",
+    "display_name": "Production Quantity",
+    "codingsystem": "ZABC18",
+    "description": "",
+    "domainelement": 92
+    },
+    {
+    "id": 60,
+    "name": "MarineFishProdQuantityFisheries",
+    "display_name": "Marine Fish",
+    "codingsystem": null,
+    "description": "",
+    "domainelement": 97
+    },
+    {
+    "id": 61,
+    "name": "MolluscsProdQuantityFisheries",
+    "display_name": "Molluscs",
+    "codingsystem": null,
+    "description": "",
+    "domainelement": 97
+    },
+    {
+    "id": 100,
+    "name": "PercentageContributionToGDGDPAgriculture",
+    "display_name": "GDP Agriculture",
+    "codingsystem": null,
+    "description": null,
+    "domainelement": 118
+    },
+    {
+    "id": 101,
+    "name": "PercentageContributionToGDGDPAgricultureServices",
+    "display_name": "GDP Agriculture Services",
+    "codingsystem": null,
+    "description": null,
+    "domainelement": 118
+    },
+    {
+    "id": 102,
+    "name": "PercentageContributionToGDGDPCrops",
+    "display_name": "GDP Crops",
+    "codingsystem": null,
+    "description": null,
+    "domainelement": 118
+    },
+    {
+    "id": 103,
+    "name": "PercentageContributionToGDGDPFisheries",
+    "display_name": "GDP Fisheries",
+    "codingsystem": null,
+    "description": null,
+    "domainelement": 118
+    },
+    {
+    "id": 104,
+    "name": "PercentageContributionToGDGDPForestry",
+    "display_name": "GDP Forestry",
+    "codingsystem": null,
+    "description": null,
+    "domainelement": 118
+    },
+    {
+    "id": 105,
+    "name": "PercentageContributionToGDGDPLivestock",
+    "display_name": "GDP Livestock",
+    "codingsystem": null,
+    "description": null,
+    "domainelement": 118
+    },
+    {
+    "id": 68,
+    "name": "Population (Count)",
+    "display_name": "Population (Count)",
+    "codingsystem": null,
+    "description": "",
+    "domainelement": 115
+    },
+    {
+    "id": 69,
+    "name": "Population Growth Rate",
+    "display_name": "Population Growth Rate",
+    "codingsystem": null,
+    "description": "",
+    "domainelement": 116
+    },
+    {
+    "id": 30,
+    "name": "PrivateSector",
+    "display_name": "Private Sector",
+    "codingsystem": "ZABC9",
+    "description": "",
+    "domainelement": 88
+    },
+    {
+    "id": 112,
+    "name": "ProductionQuantityCropsProcessed",
+    "display_name": "Production Quantity",
+    "codingsystem": null,
+    "description": "",
+    "domainelement": 121
+    },
+    {
+    "id": 114,
+    "name": "ProductionValueCropProductivity",
+    "display_name": "Production Value",
+    "codingsystem": null,
+    "description": "",
+    "domainelement": 1
+    },
+    {
+    "id": 56,
+    "name": "QuantityOfGovernmentProcure Fertilizer",
+    "display_name": "Quantity of Government Procured Fertilizer",
+    "codingsystem": null,
+    "description": "",
+    "domainelement": 16
+    },
+    {
+    "id": 117,
+    "name": "QuantityOfImportedSeeds",
+    "display_name": "Quantity of Imported Seeds",
+    "codingsystem": null,
+    "description": "",
+    "domainelement": 71
+    },
+    {
+    "id": 14,
+    "name": "QuantityOfLocallyProducedSeeds",
+    "display_name": "Quantity of Locally Produced Seeds",
+    "codingsystem": "ZABC13",
+    "description": "",
+    "domainelement": 71
+    },
+    {
+    "id": 55,
+    "name": "QuantityofSeedsReceivedSeedsAndSeedlings",
+    "display_name": "Quantity of Seeds Received",
+    "codingsystem": null,
+    "description": "",
+    "domainelement": 71
+    },
+    {
+    "id": 10,
+    "name": "SeedPrimary",
+    "display_name": "Seed Primary",
+    "codingsystem": "ZABC15",
+    "description": "",
+    "domainelement": 71
+    },
+    {
+    "id": 109,
+    "name": "SemenSupplyImports",
+    "display_name": "Imports",
+    "codingsystem": null,
+    "description": "",
+    "domainelement": 120
+    },
+    {
+    "id": 110,
+    "name": "SemenSupplyLocalProductionADC",
+    "display_name": "Local Production-ADC",
+    "codingsystem": null,
+    "description": "",
+    "domainelement": 120
+    },
+    {
+    "id": 111,
+    "name": "SemenSupplyLocalProductionKAGRC",
+    "display_name": "Local Production-KAGRC",
+    "codingsystem": null,
+    "description": "",
+    "domainelement": 120
+    },
+    {
+    "id": 94,
+    "name": "ShareOfGDPGDPAgriculture",
+    "display_name": "GDP Agriculture",
+    "codingsystem": null,
+    "description": null,
+    "domainelement": 117
+    },
+    {
+    "id": 95,
+    "name": "ShareOfGDPGDPAgricultureServices",
+    "display_name": "GDP Agriculture Services",
+    "codingsystem": null,
+    "description": null,
+    "domainelement": 117
+    },
+    {
+    "id": 96,
+    "name": "ShareOfGDPGDPCrops",
+    "display_name": "GDP Crops",
+    "codingsystem": null,
+    "description": null,
+    "domainelement": 117
+    },
+    {
+    "id": 97,
+    "name": "ShareOfGDPGDPFisheries",
+    "display_name": "GDP Fisheries",
+    "codingsystem": null,
+    "description": null,
+    "domainelement": 117
+    },
+    {
+    "id": 98,
+    "name": "ShareOfGDPGDPForestry",
+    "display_name": "GDP Forestry",
+    "codingsystem": null,
+    "description": null,
+    "domainelement": 117
+    },
+    {
+    "id": 99,
+    "name": "ShareOfGDPGDPLivestock",
+    "display_name": "GDP Livestock",
+    "codingsystem": null,
+    "description": null,
+    "domainelement": 117
+    },
+    {
+    "id": 65,
+    "name": "StuntingChildrenUnder5",
+    "display_name": "Children Under 5 (Stunting)",
+    "codingsystem": null,
+    "description": "",
+    "domainelement": 112
+    },
+    {
+    "id": 38,
+    "name": "SubsidizedFertilizerQuantity",
+    "display_name": "Subsidized Fertilizer Quantity",
+    "codingsystem": "ZABC2",
+    "description": "",
+    "domainelement": 16
+    },
+    {
+    "id": 66,
+    "name": "UnderweightChildrenUnder5",
+    "display_name": "Children Under 5 (Underweight)",
+    "codingsystem": null,
+    "description": "",
+    "domainelement": 113
+    },
+    {
+    "id": 67,
+    "name": "WastingChildrenUnder5",
+    "display_name": "Children Under 5 (Wasting)",
+    "codingsystem": null,
+    "description": "",
+    "domainelement": 114
+    }
+    ],
+    "items_category": [
+    {
+    "id": 5,
+    "name": "Crops",
+    "description": ""
+    },
+    {
+    "id": 6,
+    "name": "Fisheries",
+    "description": ""
+    },
+    {
+    "id": 4,
+    "name": "Livestock Primary",
+    "description": ""
+    },
+    {
+    "id": 3,
+    "name": "Livestock Products",
+    "description": ""
+    },
+    {
+    "id": 2,
+    "name": "National Investments and Financing",
+    "description": ""
+    },
+    {
+    "id": 7,
+    "name": "Nutrition",
+    "description": ""
+    }
+    ],
+    "uom": [
+    {
+    "id": 14,
+    "name": "Acres"
+    },
+    {
+    "id": 13,
+    "name": "Dose"
+    },
+    {
+    "id": 1,
+    "name": "Ha"
+    },
+    {
+    "id": 6,
+    "name": "Head"
+    },
+    {
+    "id": 2,
+    "name": "Kg"
+    },
+    {
+    "id": 3,
+    "name": "Ksh"
+    },
+    {
+    "id": 4,
+    "name": "Litres"
+    },
+    {
+    "id": 5,
+    "name": "Metric Tonnes"
+    },
+    {
+    "id": 10,
+    "name": "Number"
+    },
+    {
+    "id": 11,
+    "name": "Percentage"
+    },
+    {
+    "id": 7,
+    "name": "Ton/Ha"
+    },
+    {
+    "id": 8,
+    "name": "Tonnes"
+    },
+    {
+    "id": 9,
+    "name": "Trays"
+    }
+    ],
+    "items_specify": [
+    {
+    "id": 811,
+    "name": "MaizeSeedQuantityofSeedsReceived",
+    "display_name": "Maize Seed",
+    "codingsystem": null,
+    "description": "",
+    "itemcategory": null,
+    "elementitem": 55,
+    "periodicity": 1
+    },
+    {
+    "id": 813,
+    "name": "WheatSeedQuantityofSeedsReceived",
+    "display_name": "Wheat Seed",
+    "codingsystem": null,
+    "description": "",
+    "itemcategory": null,
+    "elementitem": 55,
+    "periodicity": 1
+    },
+    {
+    "id": 1600,
+    "name": "SorghumCropsPrimaryImportQuantity",
+    "display_name": "Sorghum",
+    "codingsystem": null,
+    "description": "",
+    "itemcategory": null,
+    "elementitem": 115,
+    "periodicity": null
+    },
+    {
+    "id": 1223,
+    "name": "UnderweightPercentageOfUnderweightUnder5",
+    "display_name": "Percentage of Underweight Under 5 (Underweight)",
+    "codingsystem": null,
+    "description": "",
+    "itemcategory": 7,
+    "elementitem": 66,
+    "periodicity": 1
+    },
+    {
+    "id": 1228,
+    "name": "FemalePopulationCount",
+    "display_name": "Female (Population by Count)",
+    "codingsystem": null,
+    "description": "",
+    "itemcategory": null,
+    "elementitem": 68,
+    "periodicity": 1
+    },
+    {
+    "id": 1285,
+    "name": "BroccoliCropsPrimarySupplyTradeCrops",
+    "display_name": "Broccoli",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 63,
+    "periodicity": 2
+    },
+    {
+    "id": 1286,
+    "name": "Courgettes/ZucchineCropsPrimarySupplyTradeCrops",
+    "display_name": "Courgettes/Zucchine",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 63,
+    "periodicity": 2
+    },
+    {
+    "id": 1287,
+    "name": "HerbsCropsPrimarySupplyTradeCrops",
+    "display_name": "Herbs",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 63,
+    "periodicity": 2
+    },
+    {
+    "id": 1288,
+    "name": "Snow/MangetoutCropsPrimarySupplyTradeCrops",
+    "display_name": "Snow/Mangetout",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 63,
+    "periodicity": 2
+    },
+    {
+    "id": 1289,
+    "name": "Spinach/palakCropsPrimarySupplyTradeCrops",
+    "display_name": "Spinach/palak",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 63,
+    "periodicity": 2
+    },
+    {
+    "id": 1290,
+    "name": "SugarcaneCropsPrimarySupplyTradeCrops",
+    "display_name": "Sugarcane",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 63,
+    "periodicity": 2
+    },
+    {
+    "id": 1291,
+    "name": "SweetcornCropsPrimarySupplyTradeCrops",
+    "display_name": "Sweetcorn",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 63,
+    "periodicity": 2
+    },
+    {
+    "id": 1292,
+    "name": "SweetpotatoesCropsPrimarySupplyTradeCrops",
+    "display_name": "Sweetpotatoes",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 63,
+    "periodicity": 2
+    },
+    {
+    "id": 1293,
+    "name": "Tindory/ivyguardCropsPrimarySupplyTradeCrops",
+    "display_name": "Tindory/ivyguard",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 63,
+    "periodicity": 2
+    },
+    {
+    "id": 1294,
+    "name": "TomatoCropsPrimarySupplyTradeCrops",
+    "display_name": "Tomato",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 63,
+    "periodicity": 2
+    },
+    {
+    "id": 1295,
+    "name": "TomatoseedsCropsPrimarySupplyTradeCrops",
+    "display_name": "Tomato seeds",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 63,
+    "periodicity": 2
+    },
+    {
+    "id": 1296,
+    "name": "TuriaCropsPrimarySupplyTradeCrops",
+    "display_name": "Turia",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 63,
+    "periodicity": 2
+    },
+    {
+    "id": 1297,
+    "name": "ValoreCropsPrimarySupplyTradeCrops",
+    "display_name": "Valore",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 63,
+    "periodicity": 2
+    },
+    {
+    "id": 1298,
+    "name": "VegetableButternutsCropsPrimarySupplyTradeCrops",
+    "display_name": "Vegetable, Butternuts",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 63,
+    "periodicity": 2
+    },
+    {
+    "id": 1299,
+    "name": "vegetableBeansFineCropsPrimarySupplyTradeCrops",
+    "display_name": "vegetable,Beans Fine",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 63,
+    "periodicity": 2
+    },
+    {
+    "id": 1300,
+    "name": "VegetablesAuberginesseedsCropsPrimarySupplyTradeCrops",
+    "display_name": "Vegetables Aubergines seeds",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 63,
+    "periodicity": 2
+    },
+    {
+    "id": 1301,
+    "name": "VegetablesAsparagusCropsPrimarySupplyTradeCrops",
+    "display_name": "Vegetables, Asparagus",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 63,
+    "periodicity": 2
+    },
+    {
+    "id": 1608,
+    "name": "BeansCropsPrimaryImportQuantity",
+    "display_name": "Beans",
+    "codingsystem": null,
+    "description": "",
+    "itemcategory": 5,
+    "elementitem": 115,
+    "periodicity": null
+    },
+    {
+    "id": 1615,
+    "name": "PigeonpeasCostInsuranceFreightCIFValueImportValue",
+    "display_name": "Pigeon peas",
+    "codingsystem": null,
+    "description": "",
+    "itemcategory": 5,
+    "elementitem": 116,
+    "periodicity": 1
+    },
+    {
+    "id": 1756,
+    "name": "SunflowerQuantityOfLocallyProducedSeeds",
+    "display_name": "Sunflower",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 14,
+    "periodicity": 1
+    },
+    {
+    "id": 1757,
+    "name": "TomatoQuantityOfLocallyProducedSeeds",
+    "display_name": "Tomato",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 14,
+    "periodicity": 1
+    },
+    {
+    "id": 1758,
+    "name": "TurnipQuantityOfLocallyProducedSeeds",
+    "display_name": "Turnip",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 14,
+    "periodicity": 1
+    },
+    {
+    "id": 907,
+    "name": "WoolLivestockProduction",
+    "display_name": "Wool",
+    "codingsystem": "BB12",
+    "description": "",
+    "itemcategory": 3,
+    "elementitem": 4,
+    "periodicity": 1
+    },
+    {
+    "id": 905,
+    "name": "SkinLivestock Production",
+    "display_name": "Skin",
+    "codingsystem": "BB10",
+    "description": "",
+    "itemcategory": 3,
+    "elementitem": 4,
+    "periodicity": 1
+    },
+    {
+    "id": 906,
+    "name": "WaxLivestockProduction",
+    "display_name": "Wax",
+    "codingsystem": "BB11",
+    "description": "",
+    "itemcategory": 3,
+    "elementitem": 4,
+    "periodicity": 1
+    },
+    {
+    "id": 904,
+    "name": "RabbitMeatLivestockProduction",
+    "display_name": "Rabbit Meat",
+    "codingsystem": "BB9",
+    "description": "",
+    "itemcategory": 3,
+    "elementitem": 4,
+    "periodicity": 1
+    },
+    {
+    "id": 903,
+    "name": "PoultryMeatLivestockProduction",
+    "display_name": "Poultry Meat",
+    "codingsystem": "BB8",
+    "description": "",
+    "itemcategory": 3,
+    "elementitem": 4,
+    "periodicity": 1
+    },
+    {
+    "id": 902,
+    "name": "PorkLivestockProduction",
+    "display_name": "Pork",
+    "codingsystem": "BB7",
+    "description": "",
+    "itemcategory": 3,
+    "elementitem": 4,
+    "periodicity": 1
+    },
+    {
+    "id": 901,
+    "name": "MuttonLivestock Production",
+    "display_name": "Mutton",
+    "codingsystem": "BB6",
+    "description": "",
+    "itemcategory": 3,
+    "elementitem": 4,
+    "periodicity": 1
+    },
+    {
+    "id": 900,
+    "name": "MilkLivestockProduction",
+    "display_name": "Milk",
+    "codingsystem": "BB5",
+    "description": "",
+    "itemcategory": 3,
+    "elementitem": 4,
+    "periodicity": 1
+    },
+    {
+    "id": 899,
+    "name": "HoneyLivestockProduction",
+    "display_name": "Honey",
+    "codingsystem": "BB4",
+    "description": "",
+    "itemcategory": 3,
+    "elementitem": 4,
+    "periodicity": 1
+    },
+    {
+    "id": 898,
+    "name": "HidesLivestockProduction",
+    "display_name": "Hides",
+    "codingsystem": "BB3",
+    "description": "",
+    "itemcategory": 3,
+    "elementitem": 4,
+    "periodicity": 1
+    },
+    {
+    "id": 897,
+    "name": "EggsLivestockProduction",
+    "display_name": "Eggs",
+    "codingsystem": "BB2",
+    "description": "",
+    "itemcategory": 3,
+    "elementitem": 4,
+    "periodicity": 1
+    },
+    {
+    "id": 896,
+    "name": "BeefLivestockProduction",
+    "display_name": "Beef",
+    "codingsystem": "BB1",
+    "description": "",
+    "itemcategory": 3,
+    "elementitem": 4,
+    "periodicity": 1
+    },
+    {
+    "id": 895,
+    "name": "WoolSheepLivestockPopulation",
+    "display_name": "Wool Sheep",
+    "codingsystem": "BA19",
+    "description": "",
+    "itemcategory": 4,
+    "elementitem": 6,
+    "periodicity": 1
+    },
+    {
+    "id": 894,
+    "name": "TurkeyLivestockPopulation",
+    "display_name": "Turkey",
+    "codingsystem": "BA18",
+    "description": "",
+    "itemcategory": 4,
+    "elementitem": 6,
+    "periodicity": 1
+    },
+    {
+    "id": 893,
+    "name": "RabbitLivestockPopulation",
+    "display_name": "Rabbit",
+    "codingsystem": "BA17",
+    "description": "",
+    "itemcategory": 4,
+    "elementitem": 6,
+    "periodicity": 1
+    },
+    {
+    "id": 892,
+    "name": "QuailsLivestockPopulation",
+    "display_name": "Quails",
+    "codingsystem": "BA16",
+    "description": "",
+    "itemcategory": 4,
+    "elementitem": 6,
+    "periodicity": 1
+    },
+    {
+    "id": 891,
+    "name": "PoultryIndigenousLivestockPopulation",
+    "display_name": "Poultry (Indigenous)",
+    "codingsystem": "BA15",
+    "description": "",
+    "itemcategory": 4,
+    "elementitem": 6,
+    "periodicity": 1
+    },
+    {
+    "id": 890,
+    "name": "PoultryLayersLivestock Population",
+    "display_name": "Poultry (Layers)",
+    "codingsystem": "BA14",
+    "description": "",
+    "itemcategory": 4,
+    "elementitem": 6,
+    "periodicity": 1
+    },
+    {
+    "id": 889,
+    "name": "PoultryBroilersLivestock Population",
+    "display_name": "Poultry (Broilers)",
+    "codingsystem": "BA13",
+    "description": "",
+    "itemcategory": 4,
+    "elementitem": 6,
+    "periodicity": 1
+    },
+    {
+    "id": 888,
+    "name": "PigeonsLivestockPopulation",
+    "display_name": "Pigeons",
+    "codingsystem": "BA12",
+    "description": "",
+    "itemcategory": 4,
+    "elementitem": 6,
+    "periodicity": 1
+    },
+    {
+    "id": 887,
+    "name": "PigLivestockPopulation",
+    "display_name": "Pig",
+    "codingsystem": "BA11",
+    "description": "",
+    "itemcategory": 4,
+    "elementitem": 6,
+    "periodicity": 1
+    },
+    {
+    "id": 886,
+    "name": "MeatGoatsLivestockPopulation",
+    "display_name": "Meat Goat",
+    "codingsystem": "BA10",
+    "description": "",
+    "itemcategory": 4,
+    "elementitem": 6,
+    "periodicity": 1
+    },
+    {
+    "id": 885,
+    "name": "HairSheepLivestockPopulation",
+    "display_name": "Hair Sheep",
+    "codingsystem": "BA9",
+    "description": "",
+    "itemcategory": 4,
+    "elementitem": 6,
+    "periodicity": 1
+    },
+    {
+    "id": 884,
+    "name": "GuineaFowlsLivestockPopulation",
+    "display_name": "Guinea Fowls",
+    "codingsystem": "BA8",
+    "description": "",
+    "itemcategory": 4,
+    "elementitem": 6,
+    "periodicity": 1
+    },
+    {
+    "id": 883,
+    "name": "GeeseLivestockPopulation",
+    "display_name": "Geese",
+    "codingsystem": "BA7",
+    "description": "",
+    "itemcategory": 4,
+    "elementitem": 6,
+    "periodicity": 1
+    },
+    {
+    "id": 810,
+    "name": "Foreign Investment",
+    "display_name": "Foreign Investment",
+    "codingsystem": "EEEEE28",
+    "description": "",
+    "itemcategory": 2,
+    "elementitem": 30,
+    "periodicity": 1
+    },
+    {
+    "id": 882,
+    "name": "DucksLivestockPopulation",
+    "display_name": "Ducks",
+    "codingsystem": "BA6",
+    "description": "",
+    "itemcategory": 4,
+    "elementitem": 6,
+    "periodicity": 1
+    },
+    {
+    "id": 881,
+    "name": "DonkeyLivestockPopulation",
+    "display_name": "Donkey",
+    "codingsystem": "BA5",
+    "description": "",
+    "itemcategory": 4,
+    "elementitem": 6,
+    "periodicity": 1
+    },
+    {
+    "id": 319,
+    "name": "WorldInflationRate",
+    "display_name": "World Inflation Rate",
+    "codingsystem": "EEEE3",
+    "description": "",
+    "itemcategory": 2,
+    "elementitem": 37,
+    "periodicity": 1
+    },
+    {
+    "id": 317,
+    "name": "Sub-SaharaInflationRate",
+    "display_name": "Sub-Sahara Inflation Rate",
+    "codingsystem": "EEEE5",
+    "description": "",
+    "itemcategory": 2,
+    "elementitem": 37,
+    "periodicity": 1
+    },
+    {
+    "id": 316,
+    "name": "Sub-SaharaGDPGrowthRate",
+    "display_name": "Sub-Sahara GDP Growth Rate",
+    "codingsystem": "EEEE6",
+    "description": "",
+    "itemcategory": 2,
+    "elementitem": 51,
+    "periodicity": 1
+    },
+    {
+    "id": 880,
+    "name": "DairyGoatsLivestockPopulation",
+    "display_name": "Dairy Goats",
+    "codingsystem": "BA4",
+    "description": "",
+    "itemcategory": 4,
+    "elementitem": 6,
+    "periodicity": 1
+    },
+    {
+    "id": 879,
+    "name": "DairyCattleLivestockPopulation",
+    "display_name": "Dairy Cattle",
+    "codingsystem": "BA3",
+    "description": "",
+    "itemcategory": 4,
+    "elementitem": 6,
+    "periodicity": 1
+    },
+    {
+    "id": 878,
+    "name": "CamelLivestockPopulation",
+    "display_name": "Camel",
+    "codingsystem": "BA2",
+    "description": "",
+    "itemcategory": 4,
+    "elementitem": 6,
+    "periodicity": 1
+    },
+    {
+    "id": 877,
+    "name": "BeefCattleLivestockPopulation",
+    "display_name": "Beef Cattle",
+    "codingsystem": "BA1",
+    "description": "",
+    "itemcategory": 4,
+    "elementitem": 6,
+    "periodicity": 1
+    },
+    {
+    "id": 941,
+    "name": "BeansCropArea",
+    "display_name": "Beans",
+    "codingsystem": "AAA1",
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 1,
+    "periodicity": 1
+    },
+    {
+    "id": 942,
+    "name": "CassavaCropArea",
+    "display_name": "Cassava",
+    "codingsystem": "AAA2",
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 1,
+    "periodicity": 1
+    },
+    {
+    "id": 943,
+    "name": "CowpeaCropArea",
+    "display_name": "Cowpea",
+    "codingsystem": "AAA3",
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 1,
+    "periodicity": 1
+    },
+    {
+    "id": 944,
+    "name": "GreengramsCropArea",
+    "display_name": "Greengrams",
+    "codingsystem": "AAA4",
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 1,
+    "periodicity": 1
+    },
+    {
+    "id": 946,
+    "name": "MaizeCropArea",
+    "display_name": "Maize",
+    "codingsystem": "AAA6",
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 1,
+    "periodicity": 1
+    },
+    {
+    "id": 947,
+    "name": "milletsCropArea",
+    "display_name": "Millets",
+    "codingsystem": "AAA7",
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 1,
+    "periodicity": 1
+    },
+    {
+    "id": 948,
+    "name": "riceCropArea",
+    "display_name": "Rice",
+    "codingsystem": "AAA8",
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 1,
+    "periodicity": 1
+    },
+    {
+    "id": 949,
+    "name": "sorghumCropArea",
+    "display_name": "Sorghum",
+    "codingsystem": "AAA9",
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 1,
+    "periodicity": 1
+    },
+    {
+    "id": 950,
+    "name": "sweetpotatoesCropArea",
+    "display_name": "Sweet potatoes",
+    "codingsystem": "AAA10",
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 1,
+    "periodicity": 1
+    },
+    {
+    "id": 951,
+    "name": "wheatCropArea",
+    "display_name": "Wheat",
+    "codingsystem": "AAA11",
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 1,
+    "periodicity": 1
+    },
+    {
+    "id": 952,
+    "name": "BeansProduction",
+    "display_name": "Beans",
+    "codingsystem": "AAB1",
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 2,
+    "periodicity": 1
+    },
+    {
+    "id": 953,
+    "name": "CassavaProduction",
+    "display_name": "Cassava",
+    "codingsystem": "AAB2",
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 2,
+    "periodicity": 1
+    },
+    {
+    "id": 954,
+    "name": "CowpeaProduction",
+    "display_name": "Cowpea",
+    "codingsystem": "AAB3",
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 2,
+    "periodicity": 1
+    },
+    {
+    "id": 955,
+    "name": "GreengramsProduction",
+    "display_name": "Greengrams",
+    "codingsystem": "AAB4",
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 2,
+    "periodicity": 1
+    },
+    {
+    "id": 957,
+    "name": "MaizeProduction",
+    "display_name": "Maize",
+    "codingsystem": "AAB6",
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 2,
+    "periodicity": 1
+    },
+    {
+    "id": 958,
+    "name": "milletsProduction",
+    "display_name": "Millets",
+    "codingsystem": "AAB7",
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 2,
+    "periodicity": 1
+    },
+    {
+    "id": 959,
+    "name": "riceProduction",
+    "display_name": "Rice",
+    "codingsystem": "AAB8",
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 2,
+    "periodicity": 1
+    },
+    {
+    "id": 960,
+    "name": "sorghumProduction",
+    "display_name": "Sorghum",
+    "codingsystem": "AAB9",
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 2,
+    "periodicity": 1
+    },
+    {
+    "id": 961,
+    "name": "sweetpotatoesProduction",
+    "display_name": "Sweet potatoes",
+    "codingsystem": "AAB10",
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 2,
+    "periodicity": 1
+    },
+    {
+    "id": 962,
+    "name": "wheatProduction",
+    "display_name": "Wheat",
+    "codingsystem": "AAB11",
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 2,
+    "periodicity": 1
+    },
+    {
+    "id": 963,
+    "name": "BeansYield",
+    "display_name": "Beans",
+    "codingsystem": "AAC1",
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 3,
+    "periodicity": 1
+    },
+    {
+    "id": 964,
+    "name": "CassavaYield",
+    "display_name": "Cassava",
+    "codingsystem": "AAC2",
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 3,
+    "periodicity": 1
+    },
+    {
+    "id": 965,
+    "name": "CowpeaYield",
+    "display_name": "Cowpea",
+    "codingsystem": "AAC3",
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 3,
+    "periodicity": 1
+    },
+    {
+    "id": 966,
+    "name": "GreengramsYield",
+    "display_name": "Greengrams",
+    "codingsystem": "AAC4",
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 3,
+    "periodicity": 1
+    },
+    {
+    "id": 968,
+    "name": "MaizeYield",
+    "display_name": "Maize",
+    "codingsystem": "AAC6",
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 3,
+    "periodicity": 1
+    },
+    {
+    "id": 956,
+    "name": "IrishProduction",
+    "display_name": "Irish Potatoes",
+    "codingsystem": "AAB5",
+    "description": "",
+    "itemcategory": 5,
+    "elementitem": 2,
+    "periodicity": 1
+    },
+    {
+    "id": 945,
+    "name": "IrishCropArea",
+    "display_name": "Irish Potatoes",
+    "codingsystem": "AAA5",
+    "description": "",
+    "itemcategory": 5,
+    "elementitem": 1,
+    "periodicity": 1
+    },
+    {
+    "id": 315,
+    "name": "SavingDeposits",
+    "display_name": "Saving Deposits",
+    "codingsystem": "EEEE7",
+    "description": "",
+    "itemcategory": 2,
+    "elementitem": 34,
+    "periodicity": 1
+    },
+    {
+    "id": 314,
+    "name": "RepoRate",
+    "display_name": "Repo Rate",
+    "codingsystem": "EEEE8",
+    "description": "",
+    "itemcategory": 2,
+    "elementitem": 33,
+    "periodicity": 1
+    },
+    {
+    "id": 313,
+    "name": "Overdraft",
+    "display_name": "Overdraft",
+    "codingsystem": "EEEE9",
+    "description": "",
+    "itemcategory": 2,
+    "elementitem": 34,
+    "periodicity": 1
+    },
+    {
+    "id": 312,
+    "name": "NationalGDPGrowthRate",
+    "display_name": "National GDP Growth Rate",
+    "codingsystem": "EEEE10",
+    "description": "",
+    "itemcategory": 2,
+    "elementitem": 51,
+    "periodicity": 1
+    },
+    {
+    "id": 311,
+    "name": "NationalAnnualInflationRate",
+    "display_name": "National Annual Inflation Rate",
+    "codingsystem": "EEEE11",
+    "description": "",
+    "itemcategory": 2,
+    "elementitem": 37,
+    "periodicity": 1
+    },
+    {
+    "id": 310,
+    "name": "Loans-Deposits",
+    "display_name": "Loans- Deposits",
+    "codingsystem": "EEEE12",
+    "description": "",
+    "itemcategory": 2,
+    "elementitem": 34,
+    "periodicity": 1
+    },
+    {
+    "id": 309,
+    "name": "LoanandAdvances",
+    "display_name": "Loan and Advances",
+    "codingsystem": "EEEE13",
+    "description": "",
+    "itemcategory": 2,
+    "elementitem": 34,
+    "periodicity": 1
+    },
+    {
+    "id": 308,
+    "name": "Inter-bankRate",
+    "display_name": "Inter-bank Rate",
+    "codingsystem": "EEEE14",
+    "description": "",
+    "itemcategory": 2,
+    "elementitem": 33,
+    "periodicity": 1
+    },
+    {
+    "id": 307,
+    "name": "GlobalGDPGrowthRate",
+    "display_name": "Global GDP Growth Rate",
+    "codingsystem": "EEEE15",
+    "description": "",
+    "itemcategory": 2,
+    "elementitem": 51,
+    "periodicity": 1
+    },
+    {
+    "id": 306,
+    "name": "Fishing&Aquaculture",
+    "display_name": "Fishing & Aquaculture Contribution to GDP",
+    "codingsystem": "EEEE16",
+    "description": "",
+    "itemcategory": 2,
+    "elementitem": 35,
+    "periodicity": 1
+    },
+    {
+    "id": 305,
+    "name": "EACGDPGrowthRate",
+    "display_name": "EAC GDP Growth Rate",
+    "codingsystem": "EEEE17",
+    "description": "",
+    "itemcategory": 2,
+    "elementitem": 51,
+    "periodicity": 1
+    },
+    {
+    "id": 304,
+    "name": "ContributionofAgriculturetoGDP",
+    "display_name": "Contribution of Agriculture to GDP",
+    "codingsystem": "EEEE18",
+    "description": "",
+    "itemcategory": 2,
+    "elementitem": 35,
+    "periodicity": 1
+    },
+    {
+    "id": 303,
+    "name": "CentralBankRate",
+    "display_name": "Central Bank Rate",
+    "codingsystem": "EEEE19",
+    "description": "",
+    "itemcategory": 2,
+    "elementitem": 33,
+    "periodicity": 1
+    },
+    {
+    "id": 302,
+    "name": "AverageDeposits",
+    "display_name": "Average Deposits",
+    "codingsystem": "EEEE20",
+    "description": "",
+    "itemcategory": 2,
+    "elementitem": 34,
+    "periodicity": 1
+    },
+    {
+    "id": 301,
+    "name": "LivestockProduction",
+    "display_name": "Livestock Subsector Contribution to GDP",
+    "codingsystem": "EEEE21",
+    "description": "",
+    "itemcategory": 2,
+    "elementitem": 35,
+    "periodicity": 1
+    },
+    {
+    "id": 300,
+    "name": "AgriculturalGDPGrowthRate",
+    "display_name": "Agricultural GDP Growth Rate",
+    "codingsystem": "EEEE22",
+    "description": "",
+    "itemcategory": 2,
+    "elementitem": 51,
+    "periodicity": 1
+    },
+    {
+    "id": 299,
+    "name": "91-DayTreasuryBillsRate",
+    "display_name": "91-Day Treasury Bills Rate",
+    "codingsystem": "EEEE23",
+    "description": "",
+    "itemcategory": 2,
+    "elementitem": 33,
+    "periodicity": 1
+    },
+    {
+    "id": 134,
+    "name": "DomesticInvestment",
+    "display_name": "Domestic Investment",
+    "codingsystem": "EEEE24",
+    "description": "",
+    "itemcategory": 2,
+    "elementitem": 30,
+    "periodicity": 1
+    },
+    {
+    "id": 104,
+    "name": "ODAActualCommittments",
+    "display_name": "ODA Actual Committments",
+    "codingsystem": "EEEE25",
+    "description": "",
+    "itemcategory": 2,
+    "elementitem": 28,
+    "periodicity": 1
+    },
+    {
+    "id": 103,
+    "name": "ODAGrossCommittments",
+    "display_name": "ODA Gross Committments",
+    "codingsystem": "EEEE26",
+    "description": "",
+    "itemcategory": 2,
+    "elementitem": 28,
+    "periodicity": 1
+    },
+    {
+    "id": 101,
+    "name": "SupportActivitiestoAgriculture",
+    "display_name": "Support Activities to Agriculture",
+    "codingsystem": "EEEE27",
+    "description": "",
+    "itemcategory": 2,
+    "elementitem": 35,
+    "periodicity": 1
+    },
+    {
+    "id": 812,
+    "name": "SunflowerSeedQuantityofSeedsReceived",
+    "display_name": "Sunflower Seed",
+    "codingsystem": null,
+    "description": "",
+    "itemcategory": null,
+    "elementitem": 55,
+    "periodicity": 1
+    },
+    {
+    "id": 814,
+    "name": "PastureSeedQuantityofSeedsReceived",
+    "display_name": "Pasture Seed",
+    "codingsystem": null,
+    "description": "",
+    "itemcategory": null,
+    "elementitem": 55,
+    "periodicity": 1
+    },
+    {
+    "id": 1044,
+    "name": "AverageMonthlyPricesMonthlyBeansDolichos (Njahi) Prices-90 Kg bag",
+    "display_name": "Monthly Beans Dolichos (Njahi) Prices-90 Kg bag",
+    "codingsystem": null,
+    "description": "",
+    "itemcategory": 5,
+    "elementitem": 62,
+    "periodicity": 2
+    },
+    {
+    "id": 1046,
+    "name": "AverageMonthlyPricesMonthly Avocado Prices -90 KG Bag",
+    "display_name": "Monthly Avocado Prices -90 KG Bag",
+    "codingsystem": null,
+    "description": "",
+    "itemcategory": 5,
+    "elementitem": 62,
+    "periodicity": 2
+    },
+    {
+    "id": 1048,
+    "name": "AverageMonthlyPricesMonthly Beans Rosecoco Prices- 90 Kg bag",
+    "display_name": "Monthly Beans Rosecoco Prices- 90 Kg bag",
+    "codingsystem": null,
+    "description": "",
+    "itemcategory": 5,
+    "elementitem": 62,
+    "periodicity": 2
+    },
+    {
+    "id": 1050,
+    "name": "AverageMonthlyPricesMonthly Cabbages Prices -126 KG ext bag",
+    "display_name": "Monthly Cabbages Prices -126 KG ext bag",
+    "codingsystem": null,
+    "description": "",
+    "itemcategory": 5,
+    "elementitem": 62,
+    "periodicity": 2
+    },
+    {
+    "id": 1052,
+    "name": "AverageMonthlyPricesMonthly Carrots Prices- 138 Ext bag",
+    "display_name": "Monthly Carrots Prices- 138 Ext bag",
+    "codingsystem": null,
+    "description": "",
+    "itemcategory": 5,
+    "elementitem": 62,
+    "periodicity": 2
+    },
+    {
+    "id": 1054,
+    "name": "AverageMonthlyPricesMonthly Chillies Price - 38 KG bag",
+    "display_name": "Monthly Chillies Price - 38 KG bag",
+    "codingsystem": null,
+    "description": "",
+    "itemcategory": 5,
+    "elementitem": 62,
+    "periodicity": 2
+    },
+    {
+    "id": 1056,
+    "name": "AverageMonthlyPricesMonthly Cowpeas Prices -90 KG bag",
+    "display_name": "Monthly Cowpeas Prices -90 KG bag",
+    "codingsystem": null,
+    "description": "",
+    "itemcategory": 5,
+    "elementitem": 62,
+    "periodicity": 2
+    },
+    {
+    "id": 1058,
+    "name": "MonthlyAveragePricesMonthly Eggs Prices- Tray",
+    "display_name": "Monthly Eggs Prices- Tray",
+    "codingsystem": null,
+    "description": "",
+    "itemcategory": 3,
+    "elementitem": 62,
+    "periodicity": 2
+    },
+    {
+    "id": 1060,
+    "name": "AverageMonthlyPricesMonthly Fresh peas Prices -51 KG bag",
+    "display_name": "Monthly Fresh peas Prices -51 KG bag",
+    "codingsystem": null,
+    "description": "",
+    "itemcategory": 5,
+    "elementitem": 62,
+    "periodicity": 2
+    },
+    {
+    "id": 1062,
+    "name": "AverageMonthlyPricesMonthly Green Maize Prices- 115 Kg bag",
+    "display_name": "Monthly Green Maize Prices- 115 Kg bag",
+    "codingsystem": null,
+    "description": "",
+    "itemcategory": 5,
+    "elementitem": 62,
+    "periodicity": 2
+    },
+    {
+    "id": 1064,
+    "name": "AverageMonthlyPricesMonthly Kales Prices - 50 KG bag",
+    "display_name": "Monthly Kales Prices - 50 KG bag",
+    "codingsystem": null,
+    "description": "",
+    "itemcategory": 5,
+    "elementitem": 62,
+    "periodicity": 2
+    },
+    {
+    "id": 1066,
+    "name": "AverageMonthlyPricesMonthly Limes Prices -13 KG net",
+    "display_name": "Monthly Limes Prices -13 KG net",
+    "codingsystem": null,
+    "description": "",
+    "itemcategory": 5,
+    "elementitem": 62,
+    "periodicity": 2
+    },
+    {
+    "id": 1068,
+    "name": "AverageMonthlyPricesMangoes Ngowe -25 KG sm basket",
+    "display_name": "Monthly Mangoes Ngowe -25 KG sm basket",
+    "codingsystem": null,
+    "description": "",
+    "itemcategory": 5,
+    "elementitem": 62,
+    "periodicity": 2
+    },
+    {
+    "id": 1070,
+    "name": "AverageMonthlyPricesMonthly Oranges Prices - 93 KG bag",
+    "display_name": "Monthly Oranges Prices - 93 KG bag",
+    "codingsystem": null,
+    "description": "",
+    "itemcategory": 5,
+    "elementitem": 62,
+    "periodicity": 2
+    },
+    {
+    "id": 1072,
+    "name": "AverageMontlyPricesMonthly Pawpaw Prices -54 Kg Lg Box",
+    "display_name": "Monthly Pawpaw Prices -54 Kg Lg Box",
+    "codingsystem": null,
+    "description": "",
+    "itemcategory": 5,
+    "elementitem": 62,
+    "periodicity": 2
+    },
+    {
+    "id": 1074,
+    "name": "AverageMonthlyPriceMonthly Red Irish potato Prices-110 Kg bag",
+    "display_name": "Monthly Red Irish potato Prices-110 Kg bag",
+    "codingsystem": null,
+    "description": "",
+    "itemcategory": 5,
+    "elementitem": 62,
+    "periodicity": 2
+    },
+    {
+    "id": 1076,
+    "name": "AverageMonthlyPriceMonthly Sorghum Prices-90 Kg bag",
+    "display_name": "Monthly Sorghum Prices-90 Kg bag",
+    "codingsystem": null,
+    "description": "",
+    "itemcategory": 5,
+    "elementitem": 62,
+    "periodicity": 2
+    },
+    {
+    "id": 1078,
+    "name": "AverageMonthlyPriceMonthly Tomatoes Prices-  64 Kg Lg Box",
+    "display_name": "Monthly Tomatoes Prices-  64 Kg Lg Box",
+    "codingsystem": null,
+    "description": "",
+    "itemcategory": 5,
+    "elementitem": 62,
+    "periodicity": 2
+    },
+    {
+    "id": 1080,
+    "name": "AverageMonthlyPriceMonthly White Irish potato Prices-110 Kg bag",
+    "display_name": "Monthly White Irish potato Prices-110 Kg bag",
+    "codingsystem": null,
+    "description": "",
+    "itemcategory": 5,
+    "elementitem": 62,
+    "periodicity": 2
+    },
+    {
+    "id": 1131,
+    "name": "TamarillosCropsPrimarySupplyTradeCrops",
+    "display_name": "Fruits, Tamarillos",
+    "codingsystem": null,
+    "description": "",
+    "itemcategory": 5,
+    "elementitem": 63,
+    "periodicity": 2
+    },
+    {
+    "id": 1130,
+    "name": "StrawberryCropsPrimarySupplyTradeCrops",
+    "display_name": "Fruits, Strawberry",
+    "codingsystem": null,
+    "description": "",
+    "itemcategory": 5,
+    "elementitem": 63,
+    "periodicity": 2
+    },
+    {
+    "id": 1129,
+    "name": "Sour SopCropsPrimarySupplyTradeCrops",
+    "display_name": "Fruits, Sour Sop",
+    "codingsystem": null,
+    "description": "",
+    "itemcategory": 5,
+    "elementitem": 63,
+    "periodicity": 2
+    },
+    {
+    "id": 1128,
+    "name": "RaspberriesBlissesCropsPrimarySupplyTradeCrops",
+    "display_name": "Fruits, Raspberries/Blisses",
+    "codingsystem": null,
+    "description": "",
+    "itemcategory": 5,
+    "elementitem": 63,
+    "periodicity": 2
+    },
+    {
+    "id": 1127,
+    "name": "PlumsCropsPrimarySupplyTradeCrops",
+    "display_name": "Fruits, Plums",
+    "codingsystem": null,
+    "description": "",
+    "itemcategory": 5,
+    "elementitem": 63,
+    "periodicity": 2
+    },
+    {
+    "id": 1126,
+    "name": "PineappleCropsPrimarySupplyTradeCrops",
+    "display_name": "Fruits, Pineapple",
+    "codingsystem": null,
+    "description": "",
+    "itemcategory": 5,
+    "elementitem": 63,
+    "periodicity": 2
+    },
+    {
+    "id": 1125,
+    "name": "PawpawCropsPrimarySupplyTradeCrops",
+    "display_name": "Fruits, Pawpaw",
+    "codingsystem": null,
+    "description": "",
+    "itemcategory": 5,
+    "elementitem": 63,
+    "periodicity": 2
+    },
+    {
+    "id": 1124,
+    "name": "PassionFruitCropsPrimarySupplyTradeCrops",
+    "display_name": "Fruits, Passion Fruit",
+    "codingsystem": null,
+    "description": "",
+    "itemcategory": 5,
+    "elementitem": 63,
+    "periodicity": 2
+    },
+    {
+    "id": 1123,
+    "name": "LemonCropsPrimarySupplyTradeCrops",
+    "display_name": "Fruits, Lemon",
+    "codingsystem": null,
+    "description": "",
+    "itemcategory": 5,
+    "elementitem": 63,
+    "periodicity": 2
+    },
+    {
+    "id": 1122,
+    "name": "Custard AppleCropsPrimarySupplyTradeCrops",
+    "display_name": "Fruits, Custard Apple",
+    "codingsystem": null,
+    "description": "",
+    "itemcategory": 5,
+    "elementitem": 63,
+    "periodicity": 2
+    },
+    {
+    "id": 1121,
+    "name": "CoconutCropsPrimarySupplyTradeCrops",
+    "display_name": "Fruits, Coconut",
+    "codingsystem": null,
+    "description": "",
+    "itemcategory": 5,
+    "elementitem": 63,
+    "periodicity": 2
+    },
+    {
+    "id": 1120,
+    "name": "AvocadoCropsPrimarySupplyTradeCrops",
+    "display_name": "Fruits, Avocado",
+    "codingsystem": null,
+    "description": "",
+    "itemcategory": 5,
+    "elementitem": 63,
+    "periodicity": 2
+    },
+    {
+    "id": 1601,
+    "name": "WheatCropsPrimaryImportQuantity",
+    "display_name": "Wheat",
+    "codingsystem": null,
+    "description": "",
+    "itemcategory": 5,
+    "elementitem": 115,
+    "periodicity": null
+    },
+    {
+    "id": 1224,
+    "name": "WastingPercentageOfUnderweightUnder5",
+    "display_name": "Percentage of Underweight Under 5 (Wasting)",
+    "codingsystem": null,
+    "description": "",
+    "itemcategory": 7,
+    "elementitem": 67,
+    "periodicity": 1
+    },
+    {
+    "id": 969,
+    "name": "milletsYield",
+    "display_name": "Millets",
+    "codingsystem": "AAC7",
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 3,
+    "periodicity": 1
+    },
+    {
+    "id": 970,
+    "name": "riceYield",
+    "display_name": "Rice",
+    "codingsystem": "AAC8",
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 3,
+    "periodicity": 1
+    },
+    {
+    "id": 971,
+    "name": "sorghumYield",
+    "display_name": "Sorghum",
+    "codingsystem": "AAC9",
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 3,
+    "periodicity": 1
+    },
+    {
+    "id": 972,
+    "name": "sweetpotatoesYield",
+    "display_name": "Sweet potatoes",
+    "codingsystem": "AAC10",
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 3,
+    "periodicity": 1
+    },
+    {
+    "id": 973,
+    "name": "wheatYield",
+    "display_name": "Wheat",
+    "codingsystem": "AAC11",
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 3,
+    "periodicity": 1
+    },
+    {
+    "id": 967,
+    "name": "IrishYield",
+    "display_name": "Irish Potatoes",
+    "codingsystem": "AAC5",
+    "description": "",
+    "itemcategory": 5,
+    "elementitem": 3,
+    "periodicity": 1
+    },
+    {
+    "id": 1229,
+    "name": "MalePopulationCount",
+    "display_name": "Male (Population by Count)",
+    "codingsystem": null,
+    "description": "",
+    "itemcategory": null,
+    "elementitem": 68,
+    "periodicity": 1
+    },
+    {
+    "id": 1302,
+    "name": "VegetablesBasilCropsPrimarySupplyTradeCrops",
+    "display_name": "Vegetables, Basil",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 63,
+    "periodicity": 2
+    },
+    {
+    "id": 1303,
+    "name": "VegetablesBeanXCropsPrimarySupplyTradeCrops",
+    "display_name": "Vegetables, Bean X",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 63,
+    "periodicity": 2
+    },
+    {
+    "id": 1304,
+    "name": "VegetablesBeetrootsCropsPrimarySupplyTradeCrops",
+    "display_name": "Vegetables, Beetroots",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 63,
+    "periodicity": 2
+    },
+    {
+    "id": 1305,
+    "name": "vegetablesCapsicumCropsPrimarySupplyTradeCrops",
+    "display_name": "vegetables, Capsicum",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 63,
+    "periodicity": 2
+    },
+    {
+    "id": 1306,
+    "name": "VegetablesCarrotsCropsPrimarySupplyTradeCrops",
+    "display_name": "Vegetables, Carrots",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 63,
+    "periodicity": 2
+    },
+    {
+    "id": 1307,
+    "name": "VegetablesChilliesCropsPrimarySupplyTradeCrops",
+    "display_name": "Vegetables, Chillies ",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 63,
+    "periodicity": 2
+    },
+    {
+    "id": 1308,
+    "name": "VegetablesChilliesDriedCropsPrimarySupplyTradeCrops",
+    "display_name": "Vegetables, Chillies Dried",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 63,
+    "periodicity": 2
+    },
+    {
+    "id": 1309,
+    "name": "VegetablesChilliesFresnoCropsPrimarySupplyTradeCrops",
+    "display_name": "Vegetables, Chillies Fresno",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 63,
+    "periodicity": 2
+    },
+    {
+    "id": 1310,
+    "name": "VegetablesChilliesLongCropsPrimarySupplyTradeCrops",
+    "display_name": "Vegetables, Chillies Long",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 63,
+    "periodicity": 2
+    },
+    {
+    "id": 1041,
+    "name": "PrudQuantityMolluscsothers",
+    "display_name": "Other Molluscs",
+    "codingsystem": "CCCCC33",
+    "description": "",
+    "itemcategory": 6,
+    "elementitem": 61,
+    "periodicity": 1
+    },
+    {
+    "id": 1011,
+    "name": "PrudQuantityCrusteceaothers",
+    "display_name": "Other Crustecea",
+    "codingsystem": "CCCCC3",
+    "description": "",
+    "itemcategory": 6,
+    "elementitem": 58,
+    "periodicity": 1
+    },
+    {
+    "id": 1038,
+    "name": "PrudQuantityMarineFishUnspecified",
+    "display_name": "Unspecified Marine Fish",
+    "codingsystem": "CCCCC30",
+    "description": "",
+    "itemcategory": 6,
+    "elementitem": 60,
+    "periodicity": 1
+    },
+    {
+    "id": 1033,
+    "name": "PrudQuantityFreshwaterFishUnspecified",
+    "display_name": "Unspecified Fresh Water Fish",
+    "codingsystem": "CCCCC25",
+    "description": "",
+    "itemcategory": 6,
+    "elementitem": 59,
+    "periodicity": 1
+    },
+    {
+    "id": 1045,
+    "name": "AverageMonthlyPricesWheat  Prices - 90 KG bag",
+    "display_name": "Monthly  Wheat  Prices - 90 KG bag",
+    "codingsystem": null,
+    "description": "",
+    "itemcategory": 5,
+    "elementitem": 62,
+    "periodicity": 2
+    },
+    {
+    "id": 1047,
+    "name": "AverageMonthlyPricesMonthly Beans (Mwitemania) Prices-90 Kg bag",
+    "display_name": "Monthly Beans (Mwitemania) Prices-90 Kg bag",
+    "codingsystem": null,
+    "description": "",
+    "itemcategory": 5,
+    "elementitem": 62,
+    "periodicity": 2
+    },
+    {
+    "id": 1009,
+    "name": "PrudQuantityCrusteceacrabs",
+    "display_name": "Crabs",
+    "codingsystem": "CCCCC1",
+    "description": null,
+    "itemcategory": 6,
+    "elementitem": 58,
+    "periodicity": 1
+    },
+    {
+    "id": 1010,
+    "name": "PrudQuantityCrusteceaLobster",
+    "display_name": "Lobster",
+    "codingsystem": "CCCCC2",
+    "description": null,
+    "itemcategory": 6,
+    "elementitem": 58,
+    "periodicity": 1
+    },
+    {
+    "id": 1012,
+    "name": "PrudQuantityCrusteceaPrawns",
+    "display_name": "Prawns",
+    "codingsystem": "CCCCC4",
+    "description": null,
+    "itemcategory": 6,
+    "elementitem": 58,
+    "periodicity": 1
+    },
+    {
+    "id": 1013,
+    "name": "PrudQuantityFreshwaterFishAlestes",
+    "display_name": "Alestes",
+    "codingsystem": "CCCCC5",
+    "description": null,
+    "itemcategory": 6,
+    "elementitem": 59,
+    "periodicity": 1
+    },
+    {
+    "id": 1014,
+    "name": "PrudQuantityFreshwaterFishBagrus",
+    "display_name": "Bagrus",
+    "codingsystem": "CCCCC6",
+    "description": null,
+    "itemcategory": 6,
+    "elementitem": 59,
+    "periodicity": 1
+    },
+    {
+    "id": 1015,
+    "name": "PrudQuantityFreshwaterFishBarbus",
+    "display_name": "Barbus",
+    "codingsystem": "CCCCC7",
+    "description": null,
+    "itemcategory": 6,
+    "elementitem": 59,
+    "periodicity": 1
+    },
+    {
+    "id": 1016,
+    "name": "PrudQuantityFreshwaterFishBlackbass",
+    "display_name": "Black bass",
+    "codingsystem": "CCCCC8",
+    "description": null,
+    "itemcategory": 6,
+    "elementitem": 59,
+    "periodicity": 1
+    },
+    {
+    "id": 1017,
+    "name": "PrudQuantityFreshwaterFishCarps",
+    "display_name": "Carps",
+    "codingsystem": "CCCCC9",
+    "description": null,
+    "itemcategory": 6,
+    "elementitem": 59,
+    "periodicity": 1
+    },
+    {
+    "id": 1018,
+    "name": "PrudQuantityFreshwaterFishCitharinus",
+    "display_name": "Citharinus",
+    "codingsystem": "CCCCC10",
+    "description": null,
+    "itemcategory": 6,
+    "elementitem": 59,
+    "periodicity": 1
+    },
+    {
+    "id": 1019,
+    "name": "PrudQuantityFreshwaterFishClarias",
+    "display_name": "Clarias",
+    "codingsystem": "CCCCC11",
+    "description": null,
+    "itemcategory": 6,
+    "elementitem": 59,
+    "periodicity": 1
+    },
+    {
+    "id": 1020,
+    "name": "PrudQuantityFreshwaterFishDistichodusniloticus",
+    "display_name": "Distichodus niloticus",
+    "codingsystem": "CCCCC12",
+    "description": null,
+    "itemcategory": 6,
+    "elementitem": 59,
+    "periodicity": 1
+    },
+    {
+    "id": 1021,
+    "name": "PrudQuantityFreshwaterFishEels",
+    "display_name": "Eels",
+    "codingsystem": "CCCCC13",
+    "description": null,
+    "itemcategory": 6,
+    "elementitem": 59,
+    "periodicity": 1
+    },
+    {
+    "id": 1022,
+    "name": "PrudQuantityFreshwaterFishHaplochromis",
+    "display_name": "Haplochromis",
+    "codingsystem": "CCCCC14",
+    "description": null,
+    "itemcategory": 6,
+    "elementitem": 59,
+    "periodicity": 1
+    },
+    {
+    "id": 1023,
+    "name": "PrudQuantityFreshwaterFishHydrocinus",
+    "display_name": "Hydrocinus",
+    "codingsystem": "CCCCC15",
+    "description": null,
+    "itemcategory": 6,
+    "elementitem": 59,
+    "periodicity": 1
+    },
+    {
+    "id": 1024,
+    "name": "PrudQuantityFreshwaterFishLabeo",
+    "display_name": "Labeo",
+    "codingsystem": "CCCCC16",
+    "description": null,
+    "itemcategory": 6,
+    "elementitem": 59,
+    "periodicity": 1
+    },
+    {
+    "id": 1025,
+    "name": "PrudQuantityFreshwaterFishLatesniloticus",
+    "display_name": "Lates niloticus",
+    "codingsystem": "CCCCC17",
+    "description": null,
+    "itemcategory": 6,
+    "elementitem": 59,
+    "periodicity": 1
+    },
+    {
+    "id": 1026,
+    "name": "PrudQuantityFreshwaterFishMomyrus",
+    "display_name": "Momyrus",
+    "codingsystem": "CCCCC18",
+    "description": null,
+    "itemcategory": 6,
+    "elementitem": 59,
+    "periodicity": 1
+    },
+    {
+    "id": 1027,
+    "name": "PrudQuantityFreshwaterFishProtopterus",
+    "display_name": "Protopterus",
+    "codingsystem": "CCCCC19",
+    "description": null,
+    "itemcategory": 6,
+    "elementitem": 59,
+    "periodicity": 1
+    },
+    {
+    "id": 1028,
+    "name": "PrudQuantityFreshwaterFishRastreonobola",
+    "display_name": "Rastreonobola",
+    "codingsystem": "CCCCC20",
+    "description": null,
+    "itemcategory": 6,
+    "elementitem": 59,
+    "periodicity": 1
+    },
+    {
+    "id": 1029,
+    "name": "PrudQuantityFreshwaterFishSynodontis",
+    "display_name": "Synodontis",
+    "codingsystem": "CCCCC21",
+    "description": null,
+    "itemcategory": 6,
+    "elementitem": 59,
+    "periodicity": 1
+    },
+    {
+    "id": 1030,
+    "name": "PrudQuantityFreshwaterFishTilapianiloticus",
+    "display_name": "Tilapia niloticus",
+    "codingsystem": "CCCCC22",
+    "description": null,
+    "itemcategory": 6,
+    "elementitem": 59,
+    "periodicity": 1
+    },
+    {
+    "id": 1031,
+    "name": "PrudQuantityFreshwaterFishTilapiaothers",
+    "display_name": "Tilapia others",
+    "codingsystem": "CCCCC23",
+    "description": null,
+    "itemcategory": 6,
+    "elementitem": 59,
+    "periodicity": 1
+    },
+    {
+    "id": 1032,
+    "name": "PrudQuantityFreshwaterFishTrout",
+    "display_name": "Trout",
+    "codingsystem": "CCCCC24",
+    "description": null,
+    "itemcategory": 6,
+    "elementitem": 59,
+    "periodicity": 1
+    },
+    {
+    "id": 1034,
+    "name": "PrudQuantityMarineFishDermersals",
+    "display_name": "Dermersals",
+    "codingsystem": "CCCCC26",
+    "description": null,
+    "itemcategory": 6,
+    "elementitem": 60,
+    "periodicity": 1
+    },
+    {
+    "id": 1035,
+    "name": "PrudQuantityMarineFishPelagics",
+    "display_name": "Pelagics",
+    "codingsystem": "CCCCC27",
+    "description": null,
+    "itemcategory": 6,
+    "elementitem": 60,
+    "periodicity": 1
+    },
+    {
+    "id": 1036,
+    "name": "PrudQuantityMarineFishSardines",
+    "display_name": "Sardines",
+    "codingsystem": "CCCCC28",
+    "description": null,
+    "itemcategory": 6,
+    "elementitem": 60,
+    "periodicity": 1
+    },
+    {
+    "id": 1037,
+    "name": "PrudQuantityMarineFishShark/Rays",
+    "display_name": "Shark/Rays",
+    "codingsystem": "CCCCC29",
+    "description": null,
+    "itemcategory": 6,
+    "elementitem": 60,
+    "periodicity": 1
+    },
+    {
+    "id": 1039,
+    "name": "PrudQuantityMolluscsBeche-de-mers",
+    "display_name": "Beche-de-mers",
+    "codingsystem": "CCCCC31",
+    "description": null,
+    "itemcategory": 6,
+    "elementitem": 61,
+    "periodicity": 1
+    },
+    {
+    "id": 1040,
+    "name": "PrudQuantityMolluscsOctopus",
+    "display_name": "Octopus",
+    "codingsystem": "CCCCC32",
+    "description": null,
+    "itemcategory": 6,
+    "elementitem": 61,
+    "periodicity": 1
+    },
+    {
+    "id": 1042,
+    "name": "PrudQuantityMolluscsOysters",
+    "display_name": "Oysters",
+    "codingsystem": "CCCCC34",
+    "description": null,
+    "itemcategory": 6,
+    "elementitem": 61,
+    "periodicity": 1
+    },
+    {
+    "id": 1043,
+    "name": "PrudQuantityMolluscsSquids",
+    "display_name": "Squids",
+    "codingsystem": "CCCCC35",
+    "description": null,
+    "itemcategory": 6,
+    "elementitem": 61,
+    "periodicity": 1
+    },
+    {
+    "id": 1049,
+    "name": "AverageMonthlyPricesMonthly Brinjals Prices -44 KG bag",
+    "display_name": "Monthly Brinjals Prices -44 KG bag",
+    "codingsystem": null,
+    "description": "",
+    "itemcategory": 5,
+    "elementitem": 62,
+    "periodicity": 2
+    },
+    {
+    "id": 1051,
+    "name": "AverageMonthlyPricesMonthly Capsicums Price -50 KG bag",
+    "display_name": "Monthly Capsicums Price -50 KG bag",
+    "codingsystem": null,
+    "description": "",
+    "itemcategory": 5,
+    "elementitem": 62,
+    "periodicity": 2
+    },
+    {
+    "id": 1053,
+    "name": "AverageMonthlyPricesMonthly Cassava Fresh Prices- 99 Kg bag",
+    "display_name": "Monthly Cassava Fresh Prices- 99 Kg bag",
+    "codingsystem": null,
+    "description": "",
+    "itemcategory": 5,
+    "elementitem": 62,
+    "periodicity": 2
+    },
+    {
+    "id": 1055,
+    "name": "AverageMonthlyPricesMonthly Cooking Bananas Prices- 22 Kg Med Bunch bag",
+    "display_name": "Monthly Cooking Bananas Prices- 22 Kg Med Bunch bag",
+    "codingsystem": null,
+    "description": "",
+    "itemcategory": 5,
+    "elementitem": 62,
+    "periodicity": 2
+    },
+    {
+    "id": 1057,
+    "name": "AverageMonthlyPricesMonthly Dry Maize Prices- 90 Kg bag",
+    "display_name": "Monthly Dry Maize Prices- 90 Kg bag",
+    "codingsystem": null,
+    "description": "",
+    "itemcategory": 5,
+    "elementitem": 62,
+    "periodicity": 2
+    },
+    {
+    "id": 1059,
+    "name": "MonthlyAveragePricesMonthly Finger Millet Prices- 90 Kg bag",
+    "display_name": "Monthly Finger Millet Prices- 90 Kg bag",
+    "codingsystem": null,
+    "description": "",
+    "itemcategory": 5,
+    "elementitem": 62,
+    "periodicity": 2
+    },
+    {
+    "id": 1061,
+    "name": "AverageMonthlyPricesMonthly Green Gram Prices -90kg bag",
+    "display_name": "Monthly Green Gram Prices -90kg bag",
+    "codingsystem": null,
+    "description": "",
+    "itemcategory": 5,
+    "elementitem": 62,
+    "periodicity": 2
+    },
+    {
+    "id": 1063,
+    "name": "AverageMonthlyPricesMonthly Groundnuts Prices - 110 KG bag",
+    "display_name": "Monthly Groundnuts Prices - 110 KG bag",
+    "codingsystem": null,
+    "description": "",
+    "itemcategory": 5,
+    "elementitem": 62,
+    "periodicity": 2
+    },
+    {
+    "id": 1065,
+    "name": "AverageMonthlyPricesMonthly Lemons Prices -95 KG bag",
+    "display_name": "Monthly Lemons Prices -95 KG bag",
+    "codingsystem": null,
+    "description": "",
+    "itemcategory": 5,
+    "elementitem": 62,
+    "periodicity": 2
+    },
+    {
+    "id": 1067,
+    "name": "AverageMonthlyPricesMonthly Mangoes Local Prices-126 Kg bag",
+    "display_name": "Monthly Mangoes Local Prices-126 Kg bag",
+    "codingsystem": null,
+    "description": "",
+    "itemcategory": 5,
+    "elementitem": 62,
+    "periodicity": 2
+    },
+    {
+    "id": 1069,
+    "name": "AverageMonthlyPricesMonthly Onions Dry Prices - 13 Kg Net",
+    "display_name": "Monthly Onions Dry Prices - 13 Kg Net",
+    "codingsystem": null,
+    "description": "",
+    "itemcategory": 5,
+    "elementitem": 62,
+    "periodicity": 2
+    },
+    {
+    "id": 1071,
+    "name": "AverageMonthlyPricesMonthly Passion fruit Prices- 57 KG bag",
+    "display_name": "Monthly Passion fruit Prices- 57 KG bag",
+    "codingsystem": null,
+    "description": "",
+    "itemcategory": 5,
+    "elementitem": 62,
+    "periodicity": 2
+    },
+    {
+    "id": 1073,
+    "name": "AverageMonthlyPricesMonthly Pineapple Prices- 13 Kg dozen",
+    "display_name": "Monthly Pineapple Prices- 13 Kg dozen",
+    "codingsystem": null,
+    "description": "",
+    "itemcategory": 5,
+    "elementitem": 62,
+    "periodicity": 2
+    },
+    {
+    "id": 1075,
+    "name": "AverageMonthlyPriceMonthly Ripe Bananas Prices -14 KG med bunch",
+    "display_name": "Monthly Ripe Bananas Prices -14 KG med bunch",
+    "codingsystem": null,
+    "description": "",
+    "itemcategory": 5,
+    "elementitem": 62,
+    "periodicity": 2
+    },
+    {
+    "id": 1077,
+    "name": "AverageMonthlyPriceMonthly Sweet potato Prices-98 Kg bag",
+    "display_name": "Monthly Sweet potato Prices-98 Kg bag",
+    "codingsystem": null,
+    "description": "",
+    "itemcategory": 5,
+    "elementitem": 62,
+    "periodicity": 2
+    },
+    {
+    "id": 1079,
+    "name": "AverageMonthlyPriceMonthly Wheat  Prices -90 KG bag",
+    "display_name": "Monthly Wheat  Prices -90 KG bag",
+    "codingsystem": null,
+    "description": "",
+    "itemcategory": 5,
+    "elementitem": 62,
+    "periodicity": 2
+    },
+    {
+    "id": 1119,
+    "name": "AppleCropsPrimarySupplyTradeCrops",
+    "display_name": "Fruits, Apple",
+    "codingsystem": null,
+    "description": "",
+    "itemcategory": 5,
+    "elementitem": 63,
+    "periodicity": 2
+    },
+    {
+    "id": 1118,
+    "name": "BananaCropsPrimarySupplyTradeCrops",
+    "display_name": "Fruits, Banana",
+    "codingsystem": null,
+    "description": "",
+    "itemcategory": 5,
+    "elementitem": 63,
+    "periodicity": 2
+    },
+    {
+    "id": 1117,
+    "name": "GuavaCropsPrimarySupplyTradeCrops",
+    "display_name": "Fruits, Guava",
+    "codingsystem": null,
+    "description": "",
+    "itemcategory": 5,
+    "elementitem": 63,
+    "periodicity": 2
+    },
+    {
+    "id": 1602,
+    "name": "RiceCropsPrimaryImportQuantity",
+    "display_name": "Rice",
+    "codingsystem": null,
+    "description": "",
+    "itemcategory": null,
+    "elementitem": 115,
+    "periodicity": null
+    },
+    {
+    "id": 1225,
+    "name": "StuntingPercentageOfUnderweightUnder5",
+    "display_name": "Percentage of Underweight Under 5 (Stunting)",
+    "codingsystem": null,
+    "description": "",
+    "itemcategory": 7,
+    "elementitem": 65,
+    "periodicity": 1
+    },
+    {
+    "id": 1230,
+    "name": "TotalPopulationPopulationCount",
+    "display_name": "Total Population (Population by Count)",
+    "codingsystem": null,
+    "description": "",
+    "itemcategory": null,
+    "elementitem": 68,
+    "periodicity": 1
+    },
+    {
+    "id": 1311,
+    "name": "VegetablesChilliesShortCropsPrimarySupplyTradeCrops",
+    "display_name": "Vegetables, Chillies Short",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 63,
+    "periodicity": 2
+    },
+    {
+    "id": 1312,
+    "name": "VegetablesChilliesThinCropsPrimarySupplyTradeCrops",
+    "display_name": "Vegetables, Chillies Thin",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 63,
+    "periodicity": 2
+    },
+    {
+    "id": 1313,
+    "name": "VegetablesChivesCropsPrimarySupplyTradeCrops",
+    "display_name": "Vegetables, Chives",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 63,
+    "periodicity": 2
+    },
+    {
+    "id": 1314,
+    "name": "VegetablesCORIANDER/DHANIACropsPrimarySupplyTradeCrops",
+    "display_name": "Vegetables, CORIANDER/DHANIA",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 63,
+    "periodicity": 2
+    },
+    {
+    "id": 1315,
+    "name": "VegetablesCurryLeavesCropsPrimarySupplyTradeCrops",
+    "display_name": "Vegetables, Curry Leaves",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 63,
+    "periodicity": 2
+    },
+    {
+    "id": 1316,
+    "name": "VegetablesDudhiCropsPrimarySupplyTradeCrops",
+    "display_name": "Vegetables, Dudhi",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 63,
+    "periodicity": 2
+    },
+    {
+    "id": 1317,
+    "name": "VegetablesGardenPeasCropsPrimarySupplyTradeCrops",
+    "display_name": "Vegetables, Garden Peas",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 63,
+    "periodicity": 2
+    },
+    {
+    "id": 1318,
+    "name": "VegetablesGarlicCropsPrimarySupplyTradeCrops",
+    "display_name": "Vegetables, Garlic",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 63,
+    "periodicity": 2
+    },
+    {
+    "id": 1319,
+    "name": "VegetablesGingerCropsPrimarySupplyTradeCrops",
+    "display_name": "Vegetables, Ginger",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 63,
+    "periodicity": 2
+    },
+    {
+    "id": 1609,
+    "name": "BeansCostInsuranceFreightCIFValueImportValue",
+    "display_name": "Beans",
+    "codingsystem": null,
+    "description": "",
+    "itemcategory": 5,
+    "elementitem": 116,
+    "periodicity": 1
+    },
+    {
+    "id": 1616,
+    "name": "RiceCostInsuranceFreightCIFValueImportValue",
+    "display_name": "Rice",
+    "codingsystem": null,
+    "description": "",
+    "itemcategory": 5,
+    "elementitem": 116,
+    "periodicity": 1
+    },
+    {
+    "id": 1759,
+    "name": "VegetablesQuantityOfLocallyProducedSeeds",
+    "display_name": "Vegetables",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 14,
+    "periodicity": 1
+    },
+    {
+    "id": 1134,
+    "name": "PassionFruitJuiceCropsPrimarySupplyTradeCrops",
+    "display_name": "Passion Fruit Juice",
+    "codingsystem": null,
+    "description": "",
+    "itemcategory": 5,
+    "elementitem": 64,
+    "periodicity": 2
+    },
+    {
+    "id": 1133,
+    "name": "MangoCropsPrimarySupplyTradeCrops",
+    "display_name": "Fruits, Mango",
+    "codingsystem": null,
+    "description": "",
+    "itemcategory": 5,
+    "elementitem": 63,
+    "periodicity": 2
+    },
+    {
+    "id": 1132,
+    "name": "MacademiaCropsPrimarySupplyTradeCrops",
+    "display_name": "Fruits, Macademia",
+    "codingsystem": null,
+    "description": "",
+    "itemcategory": 5,
+    "elementitem": 63,
+    "periodicity": 2
+    },
+    {
+    "id": 1226,
+    "name": "Inter-Censal Population Growth Rate (10 Year)",
+    "display_name": "Inter-Censal Population Growth Rate (10 Year)",
+    "codingsystem": null,
+    "description": "",
+    "itemcategory": null,
+    "elementitem": 69,
+    "periodicity": null
+    },
+    {
+    "id": 1603,
+    "name": "PigeonPeasCropsPrimaryImportQuantity",
+    "display_name": "Pigeon peas",
+    "codingsystem": null,
+    "description": "",
+    "itemcategory": null,
+    "elementitem": 115,
+    "periodicity": null
+    },
+    {
+    "id": 1610,
+    "name": "WheatCostInsuranceFreightCIFValueImportValue",
+    "display_name": "Wheat",
+    "codingsystem": null,
+    "description": "",
+    "itemcategory": 5,
+    "elementitem": 116,
+    "periodicity": 1
+    },
+    {
+    "id": 1617,
+    "name": "SorghumCostInsuranceFreightCIFValueImportValue",
+    "display_name": "Sorghum",
+    "codingsystem": null,
+    "description": "",
+    "itemcategory": 5,
+    "elementitem": 116,
+    "periodicity": 1
+    },
+    {
+    "id": 1760,
+    "name": "WatermelonQuantityOfLocallyProducedSeeds",
+    "display_name": "Watermelon",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 14,
+    "periodicity": 1
+    },
+    {
+    "id": 1761,
+    "name": "WheatQuantityOfLocallyProducedSeeds",
+    "display_name": "Wheat",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 14,
+    "periodicity": 1
+    },
+    {
+    "id": 1762,
+    "name": "CarrotQuantityOfImportedSeeds",
+    "display_name": "Carrot",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 117,
+    "periodicity": 1
+    },
+    {
+    "id": 1763,
+    "name": "CeleryQuantityOfImportedSeeds",
+    "display_name": "Celery",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 117,
+    "periodicity": 1
+    },
+    {
+    "id": 1764,
+    "name": "Chinese cabbageQuantityOfImportedSeeds",
+    "display_name": "Chinese cabbage",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 117,
+    "periodicity": 1
+    },
+    {
+    "id": 1765,
+    "name": "ChivesQuantityOfImportedSeeds",
+    "display_name": "Chives",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 117,
+    "periodicity": 1
+    },
+    {
+    "id": 1766,
+    "name": "CorianderQuantityOfImportedSeeds",
+    "display_name": "Coriander",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 117,
+    "periodicity": 1
+    },
+    {
+    "id": 1767,
+    "name": "CottonQuantityOfImportedSeeds",
+    "display_name": "Cotton",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 117,
+    "periodicity": 1
+    },
+    {
+    "id": 1768,
+    "name": "CowpeasQuantityOfImportedSeeds",
+    "display_name": "Cowpeas",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 117,
+    "periodicity": 1
+    },
+    {
+    "id": 1769,
+    "name": "CucumberQuantityOfImportedSeeds",
+    "display_name": "Cucumber",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 117,
+    "periodicity": 1
+    },
+    {
+    "id": 1770,
+    "name": "DesmodiumQuantityOfImportedSeeds",
+    "display_name": "Desmodium",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 117,
+    "periodicity": 1
+    },
+    {
+    "id": 1771,
+    "name": "DillQuantityOfImportedSeeds",
+    "display_name": "Dill",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 117,
+    "periodicity": 1
+    },
+    {
+    "id": 1772,
+    "name": "Dolichos BeansQuantityOfImportedSeeds",
+    "display_name": "Dolichos Beans",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 117,
+    "periodicity": 1
+    },
+    {
+    "id": 1773,
+    "name": "EggPlantQuantityOfImportedSeeds",
+    "display_name": "EggPlant",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 117,
+    "periodicity": 1
+    },
+    {
+    "id": 1774,
+    "name": "FennelQuantityOfImportedSeeds",
+    "display_name": "Fennel",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 117,
+    "periodicity": 1
+    },
+    {
+    "id": 1775,
+    "name": "Finger MilletQuantityOfImportedSeeds",
+    "display_name": "Finger Millet",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 117,
+    "periodicity": 1
+    },
+    {
+    "id": 1776,
+    "name": "GreengramsQuantityOfImportedSeeds",
+    "display_name": "Greengrams",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 117,
+    "periodicity": 1
+    },
+    {
+    "id": 1777,
+    "name": "GroundnutQuantityOfImportedSeeds",
+    "display_name": "Groundnut",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 117,
+    "periodicity": 1
+    },
+    {
+    "id": 1778,
+    "name": "Kikuyu grassQuantityOfImportedSeeds",
+    "display_name": "Kikuyu grass",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 117,
+    "periodicity": 1
+    },
+    {
+    "id": 1779,
+    "name": "LeekQuantityOfImportedSeeds",
+    "display_name": "Leek",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 117,
+    "periodicity": 1
+    },
+    {
+    "id": 1780,
+    "name": "LettuceQuantityOfImportedSeeds",
+    "display_name": "Lettuce",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 117,
+    "periodicity": 1
+    },
+    {
+    "id": 1781,
+    "name": "LucerneQuantityOfImportedSeeds",
+    "display_name": "Lucerne",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 117,
+    "periodicity": 1
+    },
+    {
+    "id": 1782,
+    "name": "MaizeQuantityOfImportedSeeds",
+    "display_name": "Maize",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 117,
+    "periodicity": 1
+    },
+    {
+    "id": 1783,
+    "name": "OatQuantityOfImportedSeeds",
+    "display_name": "Oat",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 117,
+    "periodicity": 1
+    },
+    {
+    "id": 1784,
+    "name": "OkraQuantityOfImportedSeeds",
+    "display_name": "Okra",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 117,
+    "periodicity": 1
+    },
+    {
+    "id": 1785,
+    "name": "OnionQuantityOfImportedSeeds",
+    "display_name": "Onion",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 117,
+    "periodicity": 1
+    },
+    {
+    "id": 1786,
+    "name": "ParsleyQuantityOfImportedSeeds",
+    "display_name": "Parsley",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 117,
+    "periodicity": 1
+    },
+    {
+    "id": 1787,
+    "name": "PastureQuantityOfImportedSeeds",
+    "display_name": "Pasture",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 117,
+    "periodicity": 1
+    },
+    {
+    "id": 1788,
+    "name": "PawpawQuantityOfImportedSeeds",
+    "display_name": "Pawpaw",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 117,
+    "periodicity": 1
+    },
+    {
+    "id": 1789,
+    "name": "PearlmilletQuantityOfImportedSeeds",
+    "display_name": "Pearlmillet",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 117,
+    "periodicity": 1
+    },
+    {
+    "id": 1790,
+    "name": "PeasQuantityOfImportedSeeds",
+    "display_name": "Peas",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 117,
+    "periodicity": 1
+    },
+    {
+    "id": 1791,
+    "name": "Pigeon peasQuantityOfImportedSeeds",
+    "display_name": "Pigeon peas",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 117,
+    "periodicity": 1
+    },
+    {
+    "id": 1792,
+    "name": "PotatoQuantityOfImportedSeeds",
+    "display_name": "Potato",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 117,
+    "periodicity": 1
+    },
+    {
+    "id": 1793,
+    "name": "Pumpki/SquashQuantityOfImportedSeeds",
+    "display_name": "Pumpki/Squash",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 117,
+    "periodicity": 1
+    },
+    {
+    "id": 1794,
+    "name": "PumpkinQuantityOfImportedSeeds",
+    "display_name": "Pumpkin",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 117,
+    "periodicity": 1
+    },
+    {
+    "id": 1795,
+    "name": "RadishQuantityOfImportedSeeds",
+    "display_name": "Radish",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 117,
+    "periodicity": 1
+    },
+    {
+    "id": 1796,
+    "name": "RiceQuantityOfImportedSeeds",
+    "display_name": "Rice",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 117,
+    "periodicity": 1
+    },
+    {
+    "id": 1797,
+    "name": "RoquetteQuantityOfImportedSeeds",
+    "display_name": "Roquette",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 117,
+    "periodicity": 1
+    },
+    {
+    "id": 1179,
+    "name": "FlowersAgapanthusCropsPrimarySupplyTradeCrops",
+    "display_name": "Flowers, Agapanthus",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 63,
+    "periodicity": 2
+    },
+    {
+    "id": 1180,
+    "name": "FlowersAlstroemeriaCropsPrimarySupplyTradeCrops",
+    "display_name": "Flowers, Alstroemeria",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 63,
+    "periodicity": 2
+    },
+    {
+    "id": 1181,
+    "name": "FlowersAmmimajusCropsPrimarySupplyTradeCrops",
+    "display_name": "Flowers, Ammimajus",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 63,
+    "periodicity": 2
+    },
+    {
+    "id": 1182,
+    "name": "FlowersAnthuriumsCropsPrimarySupplyTradeCrops",
+    "display_name": "Flowers, Anthuriums",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 63,
+    "periodicity": 2
+    },
+    {
+    "id": 1183,
+    "name": "FlowersArabicumCropsPrimarySupplyTradeCrops",
+    "display_name": "Flowers, Arabicum",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 63,
+    "periodicity": 2
+    },
+    {
+    "id": 1184,
+    "name": "FlowersAstersCropsPrimarySupplyTradeCrops",
+    "display_name": "Flowers, Asters",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 63,
+    "periodicity": 2
+    },
+    {
+    "id": 1185,
+    "name": "FlowersBambooCropsPrimarySupplyTradeCrops",
+    "display_name": "Flowers, Bamboo",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 63,
+    "periodicity": 2
+    },
+    {
+    "id": 1186,
+    "name": "FlowersBupleurumCropsPrimarySupplyTradeCrops",
+    "display_name": "Flowers, Bupleurum",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 63,
+    "periodicity": 2
+    },
+    {
+    "id": 1187,
+    "name": "FlowersCarnationCuttingUnrootedCropsPrimarySupplyTradeCrops",
+    "display_name": "Flowers, Carnation Cutting Unrooted",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 63,
+    "periodicity": 2
+    },
+    {
+    "id": 1188,
+    "name": "FlowersCarnationSprayCropsPrimarySupplyTradeCrops",
+    "display_name": "Flowers, Carnation Spray",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 63,
+    "periodicity": 2
+    },
+    {
+    "id": 1189,
+    "name": "FlowersCarnationStandardCropsPrimarySupplyTradeCrops",
+    "display_name": "Flowers, Carnation Standard",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 63,
+    "periodicity": 2
+    },
+    {
+    "id": 1190,
+    "name": "FlowersCarthamusCropsPrimarySupplyTradeCrops",
+    "display_name": "Flowers, Carthamus",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 63,
+    "periodicity": 2
+    },
+    {
+    "id": 1191,
+    "name": "FlowersChrysanCuttingCropsPrimarySupplyTradeCrops",
+    "display_name": "Flowers, Chrysan Cutting",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 63,
+    "periodicity": 2
+    },
+    {
+    "id": 1192,
+    "name": "FlowersCutFoliageCropsPrimarySupplyTradeCrops",
+    "display_name": "Flowers, Cut Foliage",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 63,
+    "periodicity": 2
+    },
+    {
+    "id": 1193,
+    "name": "FlowersDelphiniumCropsPrimarySupplyTradeCrops",
+    "display_name": "Flowers, Delphinium",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 63,
+    "periodicity": 2
+    },
+    {
+    "id": 1194,
+    "name": "FlowersDillCropsPrimarySupplyTradeCrops",
+    "display_name": "Flowers, Dill",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 63,
+    "periodicity": 2
+    },
+    {
+    "id": 1195,
+    "name": "FlowersEryngiumCropsPrimarySupplyTradeCrops",
+    "display_name": "Flowers, Eryngium",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 63,
+    "periodicity": 2
+    },
+    {
+    "id": 1196,
+    "name": "FlowersEuphoriaCropsPrimarySupplyTradeCrops",
+    "display_name": "Flowers, Euphoria",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 63,
+    "periodicity": 2
+    },
+    {
+    "id": 1197,
+    "name": "FlowersGypsophiliaCropsPrimarySupplyTradeCrops",
+    "display_name": "Flowers, Gypsophilia",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 63,
+    "periodicity": 2
+    },
+    {
+    "id": 1198,
+    "name": "FlowersHeleniumCropsPrimarySupplyTradeCrops",
+    "display_name": "Flowers, Helenium",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 63,
+    "periodicity": 2
+    },
+    {
+    "id": 1199,
+    "name": "FlowersHeliconiaCropsPrimarySupplyTradeCrops",
+    "display_name": "Flowers, Heliconia",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 63,
+    "periodicity": 2
+    },
+    {
+    "id": 1200,
+    "name": "FlowersHyphericumCropsPrimarySupplyTradeCrops",
+    "display_name": "Flowers, Hyphericum",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 63,
+    "periodicity": 2
+    },
+    {
+    "id": 1201,
+    "name": "FlowersLilliesCropsPrimarySupplyTradeCrops",
+    "display_name": "Flowers, Lillies",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 63,
+    "periodicity": 2
+    },
+    {
+    "id": 1202,
+    "name": "FlowersLisianthusCropsPrimarySupplyTradeCrops",
+    "display_name": "Flowers, Lisianthus",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 63,
+    "periodicity": 2
+    },
+    {
+    "id": 1203,
+    "name": "FlowersLIVEPLANTSCropsPrimarySupplyTradeCrops",
+    "display_name": "Flowers, Live Plants",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 63,
+    "periodicity": 2
+    },
+    {
+    "id": 1798,
+    "name": "RyegrassQuantityOfImportedSeeds",
+    "display_name": "Ryegrass",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 117,
+    "periodicity": 1
+    },
+    {
+    "id": 1799,
+    "name": "SorghumQuantityOfImportedSeeds",
+    "display_name": "Sorghum",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 117,
+    "periodicity": 1
+    },
+    {
+    "id": 1800,
+    "name": "SoyabeanQuantityOfImportedSeeds",
+    "display_name": "Soyabean",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 117,
+    "periodicity": 1
+    },
+    {
+    "id": 1801,
+    "name": "Spider plantQuantityOfImportedSeeds",
+    "display_name": "Spider plant",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 117,
+    "periodicity": 1
+    },
+    {
+    "id": 1802,
+    "name": "SpinachQuantityOfImportedSeeds",
+    "display_name": "Spinach",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 117,
+    "periodicity": 1
+    },
+    {
+    "id": 1803,
+    "name": "Sudan grassQuantityOfImportedSeeds",
+    "display_name": "Sudan grass",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 117,
+    "periodicity": 1
+    },
+    {
+    "id": 1804,
+    "name": "SunflowerQuantityOfImportedSeeds",
+    "display_name": "Sunflower",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 117,
+    "periodicity": 1
+    },
+    {
+    "id": 1805,
+    "name": "TomatoQuantityOfImportedSeeds",
+    "display_name": "Tomato",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 117,
+    "periodicity": 1
+    },
+    {
+    "id": 1806,
+    "name": "TurnipQuantityOfImportedSeeds",
+    "display_name": "Turnip",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 117,
+    "periodicity": 1
+    },
+    {
+    "id": 1807,
+    "name": "VegetablesQuantityOfImportedSeeds",
+    "display_name": "Vegetables",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 117,
+    "periodicity": 1
+    },
+    {
+    "id": 1808,
+    "name": "WatermelonQuantityOfImportedSeeds",
+    "display_name": "Watermelon",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 117,
+    "periodicity": 1
+    },
+    {
+    "id": 1809,
+    "name": "WheatQuantityOfImportedSeeds",
+    "display_name": "Wheat",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 117,
+    "periodicity": 1
+    },
+    {
+    "id": 1204,
+    "name": "FlowersMixedFlowerCropsPrimarySupplyTradeCrops",
+    "display_name": "Flowers, Mixed Flower",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 63,
+    "periodicity": 2
+    },
+    {
+    "id": 1205,
+    "name": "FlowersMobbydickCropsPrimarySupplyTradeCrops",
+    "display_name": "Flowers, Mobbydick",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 63,
+    "periodicity": 2
+    },
+    {
+    "id": 1206,
+    "name": "FlowersMolucellaCropsPrimarySupplyTradeCrops",
+    "display_name": "Flowers, Molucella",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 63,
+    "periodicity": 2
+    },
+    {
+    "id": 1207,
+    "name": "FlowersMontbretiaCropsPrimarySupplyTradeCrops",
+    "display_name": "Flowers, Montbretia",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 63,
+    "periodicity": 2
+    },
+    {
+    "id": 1208,
+    "name": "FlowersOrchidsCropsPrimarySupplyTradeCrops",
+    "display_name": "Flowers, Orchids",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 63,
+    "periodicity": 2
+    },
+    {
+    "id": 1209,
+    "name": "FlowersOrnithogalumCropsPrimarySupplyTradeCrops",
+    "display_name": "Flowers, Ornithogalum",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 63,
+    "periodicity": 2
+    },
+    {
+    "id": 1210,
+    "name": "FlowersPapyrusCropsPrimarySupplyTradeCrops",
+    "display_name": "Flowers, Papyrus",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 63,
+    "periodicity": 2
+    },
+    {
+    "id": 1211,
+    "name": "FlowersPennisetumCropsPrimarySupplyTradeCrops",
+    "display_name": "Flowers, Pennisetum",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 63,
+    "periodicity": 2
+    },
+    {
+    "id": 1212,
+    "name": "FlowersRosesCropsPrimarySupplyTradeCrops",
+    "display_name": "Flowers, Roses",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 63,
+    "periodicity": 2
+    },
+    {
+    "id": 1213,
+    "name": "FlowersRudbeckiaCropsPrimarySupplyTradeCrops",
+    "display_name": "Flowers, Rudbeckia",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 63,
+    "periodicity": 2
+    },
+    {
+    "id": 1214,
+    "name": "FlowersSolidagoCropsPrimarySupplyTradeCrops",
+    "display_name": "Flowers, Solidago",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 63,
+    "periodicity": 2
+    },
+    {
+    "id": 1215,
+    "name": "FlowersSolidasterCropsPrimarySupplyTradeCrops",
+    "display_name": "Flowers, Solidaster",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 63,
+    "periodicity": 2
+    },
+    {
+    "id": 1216,
+    "name": "FlowersStaticeCropsPrimarySupplyTradeCrops",
+    "display_name": "Flowers, Statice",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 63,
+    "periodicity": 2
+    },
+    {
+    "id": 1217,
+    "name": "FlowersStaticeBeltardCropsPrimarySupplyTradeCrops",
+    "display_name": "Flowers, Statice Beltard",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 63,
+    "periodicity": 2
+    },
+    {
+    "id": 1218,
+    "name": "FlowersStereliziaCropsPrimarySupplyTradeCrops",
+    "display_name": "Flowers, Sterelizia",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 63,
+    "periodicity": 2
+    },
+    {
+    "id": 1219,
+    "name": "FlowersTancetumCropsPrimarySupplyTradeCrops",
+    "display_name": "Flowers, Tancetum",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 63,
+    "periodicity": 2
+    },
+    {
+    "id": 1220,
+    "name": "FlowersTuberoseCropsPrimarySupplyTradeCrops",
+    "display_name": "Flowers, Tuberose",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 63,
+    "periodicity": 2
+    },
+    {
+    "id": 1221,
+    "name": "FlowersVeronicaCropsPrimarySupplyTradeCrops",
+    "display_name": "Flowers, Veronica",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 63,
+    "periodicity": 2
+    },
+    {
+    "id": 1222,
+    "name": "FlowersZantedeschiaCropsPrimarySupplyTradeCrops",
+    "display_name": "Flowers, Zantedeschia",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 63,
+    "periodicity": 2
+    },
+    {
+    "id": 1227,
+    "name": "IntersexPopulationCount",
+    "display_name": "Intersex (Population by Count)",
+    "codingsystem": null,
+    "description": "",
+    "itemcategory": null,
+    "elementitem": 68,
+    "periodicity": 1
+    },
+    {
+    "id": 1604,
+    "name": "MilletCropsPrimaryImportQuantity",
+    "display_name": "Millet",
+    "codingsystem": null,
+    "description": "",
+    "itemcategory": 5,
+    "elementitem": 115,
+    "periodicity": null
+    },
+    {
+    "id": 1611,
+    "name": "CowpeasCostInsuranceFreightCIFValueImportValue",
+    "display_name": "Cowpeas",
+    "codingsystem": null,
+    "description": "",
+    "itemcategory": 5,
+    "elementitem": 116,
+    "periodicity": 1
+    },
+    {
+    "id": 1320,
+    "name": "VegetablesGundaCropsPrimarySupplyTradeCrops",
+    "display_name": "Vegetables, Gunda",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 63,
+    "periodicity": 2
+    },
+    {
+    "id": 1321,
+    "name": "VegetablesKarellaCropsPrimarySupplyTradeCrops",
+    "display_name": "Vegetables, Karella",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 63,
+    "periodicity": 2
+    },
+    {
+    "id": 1322,
+    "name": "VegetablesLeeksCropsPrimarySupplyTradeCrops",
+    "display_name": "Vegetables, Leeks",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 63,
+    "periodicity": 2
+    },
+    {
+    "id": 1323,
+    "name": "VegetablesMatokeCropsPrimarySupplyTradeCrops",
+    "display_name": "Vegetables, Matoke",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 63,
+    "periodicity": 2
+    },
+    {
+    "id": 1324,
+    "name": "VegetablesMixedVegetablesCropsPrimarySupplyTradeCrops",
+    "display_name": "Vegetables, Mixed Vegetables",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 63,
+    "periodicity": 2
+    },
+    {
+    "id": 1325,
+    "name": "VegetablesOkraCropsPrimarySupplyTradeCrops",
+    "display_name": "Vegetables, Okra",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 63,
+    "periodicity": 2
+    },
+    {
+    "id": 1326,
+    "name": "VegetablesOnionCropsPrimarySupplyTradeCrops",
+    "display_name": "Vegetables, Onion",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 63,
+    "periodicity": 2
+    },
+    {
+    "id": 1327,
+    "name": "VegetablesParsleyCropsPrimarySupplyTradeCrops",
+    "display_name": "Vegetables, Parsley",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 63,
+    "periodicity": 2
+    },
+    {
+    "id": 1328,
+    "name": "VegetablesPatra/ArrowRootLeavesCropsPrimarySupplyTradeCrops",
+    "display_name": "Vegetables, Patra/Arrow Root Leaves",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 63,
+    "periodicity": 2
+    },
+    {
+    "id": 1329,
+    "name": "VegetablesPepperMintCropsPrimarySupplyTradeCrops",
+    "display_name": "Vegetables, Pepper Mint",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 63,
+    "periodicity": 2
+    },
+    {
+    "id": 1330,
+    "name": "VegetablesRosemaryCropsPrimarySupplyTradeCrops",
+    "display_name": "Vegetables, Rosemary",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 63,
+    "periodicity": 2
+    },
+    {
+    "id": 1331,
+    "name": "VegetablesRunnerBeansCropsPrimarySupplyTradeCrops",
+    "display_name": "Vegetables, Runner Beans",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 63,
+    "periodicity": 2
+    },
+    {
+    "id": 1332,
+    "name": "VegetablesSerenadeCropsPrimarySupplyTradeCrops",
+    "display_name": "Vegetables, Serenade",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 63,
+    "periodicity": 2
+    },
+    {
+    "id": 1333,
+    "name": "VegetablesSnapPeasCropsPrimarySupplyTradeCrops",
+    "display_name": "Vegetables, Snap Peas",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 63,
+    "periodicity": 2
+    },
+    {
+    "id": 1334,
+    "name": "VegetablesSnow/MangetoutCropsPrimarySupplyTradeCrops",
+    "display_name": "Vegetables, Snow/Mangetout",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 63,
+    "periodicity": 2
+    },
+    {
+    "id": 1335,
+    "name": "VegetablesSoyaBeansCropsPrimarySupplyTradeCrops",
+    "display_name": "Vegetables, Soya Beans",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 63,
+    "periodicity": 2
+    },
+    {
+    "id": 1336,
+    "name": "VegetablesTarragonCropsPrimarySupplyTradeCrops",
+    "display_name": "Vegetables, Tarragon",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 63,
+    "periodicity": 2
+    },
+    {
+    "id": 1337,
+    "name": "VegetablesThymeCropsPrimarySupplyTradeCrops",
+    "display_name": "Vegetables, Thyme",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 63,
+    "periodicity": 2
+    },
+    {
+    "id": 1338,
+    "name": "VegetablesBabyCornCropsPrimarySupplyTradeCrops",
+    "display_name": "Vegetables,Baby Corn",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 63,
+    "periodicity": 2
+    },
+    {
+    "id": 1351,
+    "name": "94AgricultureContributiontoGDP",
+    "display_name": "Agriculture Contribution to GDP",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": null,
+    "elementitem": 94,
+    "periodicity": 1
+    },
+    {
+    "id": 1352,
+    "name": "95AgricultureSupportServicescontributiontoAgricultureGDP",
+    "display_name": "Agriculture Support Services contribution to Agriculture GDP",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": null,
+    "elementitem": 95,
+    "periodicity": 1
+    },
+    {
+    "id": 1353,
+    "name": "96CropscontributiontoAgricultureGDP",
+    "display_name": "Crops contribution to Agriculture GDP",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": null,
+    "elementitem": 96,
+    "periodicity": 1
+    },
+    {
+    "id": 1354,
+    "name": "97Fishing&aquaculturecontributiontoAgricultureGDP",
+    "display_name": "Fishing & aquaculture contribution to Agriculture GDP",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": null,
+    "elementitem": 97,
+    "periodicity": 1
+    },
+    {
+    "id": 1355,
+    "name": "98Forestry&loggingcontributiontoAgricultureGDP",
+    "display_name": "Forestry & logging contribution to Agriculture GDP",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": null,
+    "elementitem": 98,
+    "periodicity": 1
+    },
+    {
+    "id": 1356,
+    "name": "99LivestockcontributiontoAgricultureGDP",
+    "display_name": "Livestock contribution to Agriculture GDP",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": null,
+    "elementitem": 99,
+    "periodicity": 1
+    },
+    {
+    "id": 1357,
+    "name": "100AgriculturepercentagecontributiontoGDP",
+    "display_name": "Agriculture percentage contribution to GDP",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": null,
+    "elementitem": 100,
+    "periodicity": 1
+    },
+    {
+    "id": 1358,
+    "name": "101AgricultureSupportServicespercentagecontributiontoAgricultureGDP",
+    "display_name": "Agriculture Support Services percentage contribution to Agriculture GDP",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": null,
+    "elementitem": 101,
+    "periodicity": 1
+    },
+    {
+    "id": 1359,
+    "name": "102CropspercentagecontributiontoAgricultureGDP",
+    "display_name": "Crops percentage contribution to Agriculture GDP",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": null,
+    "elementitem": 102,
+    "periodicity": 1
+    },
+    {
+    "id": 1360,
+    "name": "103Fishing&aquaculturepercentagecontributiontoAgricultureGDP",
+    "display_name": "Fishing & aquaculture percentage contribution to Agriculture GDP",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": null,
+    "elementitem": 103,
+    "periodicity": 1
+    },
+    {
+    "id": 1361,
+    "name": "104Forestry&loggingpercentagecontributiontoAgricultureGDP",
+    "display_name": "Forestry & logging percentage contribution to Agriculture GDP",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": null,
+    "elementitem": 104,
+    "periodicity": 1
+    },
+    {
+    "id": 1362,
+    "name": "105LivestockpercentagecontributiontoAgricultureGDP",
+    "display_name": "Livestock percentage contribution to Agriculture GDP",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": null,
+    "elementitem": 105,
+    "periodicity": 1
+    },
+    {
+    "id": 1387,
+    "name": "106MixedBreeds",
+    "display_name": "Mixed Breeds",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": null,
+    "elementitem": 106,
+    "periodicity": 1
+    },
+    {
+    "id": 1388,
+    "name": "107Aryshire",
+    "display_name": "Aryshire",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": null,
+    "elementitem": 107,
+    "periodicity": 1
+    },
+    {
+    "id": 1389,
+    "name": "107Boran",
+    "display_name": "Boran",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": null,
+    "elementitem": 107,
+    "periodicity": 1
+    },
+    {
+    "id": 1390,
+    "name": "107Friesian",
+    "display_name": "Friesian",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": null,
+    "elementitem": 107,
+    "periodicity": 1
+    },
+    {
+    "id": 1391,
+    "name": "107Guernsey",
+    "display_name": "Guernsey",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": null,
+    "elementitem": 107,
+    "periodicity": 1
+    },
+    {
+    "id": 1392,
+    "name": "107Jersey",
+    "display_name": "Jersey",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": null,
+    "elementitem": 107,
+    "periodicity": 1
+    },
+    {
+    "id": 1393,
+    "name": "108Aryshire",
+    "display_name": "Aryshire",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": null,
+    "elementitem": 108,
+    "periodicity": 1
+    },
+    {
+    "id": 1394,
+    "name": "108Boran",
+    "display_name": "Boran",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": null,
+    "elementitem": 108,
+    "periodicity": 1
+    },
+    {
+    "id": 1395,
+    "name": "108Friesian",
+    "display_name": "Friesian",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": null,
+    "elementitem": 108,
+    "periodicity": 1
+    },
+    {
+    "id": 1396,
+    "name": "108Guernsey",
+    "display_name": "Guernsey",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": null,
+    "elementitem": 108,
+    "periodicity": 1
+    },
+    {
+    "id": 1397,
+    "name": "108Jersey",
+    "display_name": "Jersey",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": null,
+    "elementitem": 108,
+    "periodicity": 1
+    },
+    {
+    "id": 1398,
+    "name": "108Sihiwal",
+    "display_name": "Sihiwal",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": null,
+    "elementitem": 108,
+    "periodicity": 1
+    },
+    {
+    "id": 1399,
+    "name": "109MixedBreeds",
+    "display_name": "Mixed Breeds",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": null,
+    "elementitem": 109,
+    "periodicity": 1
+    },
+    {
+    "id": 1400,
+    "name": "110Aryshire",
+    "display_name": " Aryshire",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": null,
+    "elementitem": 110,
+    "periodicity": 1
+    },
+    {
+    "id": 1401,
+    "name": "110Boran",
+    "display_name": " Boran ",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": null,
+    "elementitem": 110,
+    "periodicity": 1
+    },
+    {
+    "id": 1402,
+    "name": "110Friesian",
+    "display_name": " Friesian",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": null,
+    "elementitem": 110,
+    "periodicity": 1
+    },
+    {
+    "id": 1403,
+    "name": "110Guernsey",
+    "display_name": " Guernsey",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": null,
+    "elementitem": 110,
+    "periodicity": 1
+    },
+    {
+    "id": 1404,
+    "name": "110Jersey",
+    "display_name": " Jersey ",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": null,
+    "elementitem": 110,
+    "periodicity": 1
+    },
+    {
+    "id": 1405,
+    "name": "111Boran",
+    "display_name": " Boran ",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": null,
+    "elementitem": 111,
+    "periodicity": 1
+    },
+    {
+    "id": 1406,
+    "name": "111Friesian",
+    "display_name": " Friesian",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": null,
+    "elementitem": 111,
+    "periodicity": 1
+    },
+    {
+    "id": 1407,
+    "name": "111Guernsey",
+    "display_name": " Guernsey ",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": null,
+    "elementitem": 111,
+    "periodicity": 1
+    },
+    {
+    "id": 1408,
+    "name": "111Jersey",
+    "display_name": " Jersey ",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": null,
+    "elementitem": 111,
+    "periodicity": 1
+    },
+    {
+    "id": 1409,
+    "name": "111Sihiwal",
+    "display_name": " Sihiwal ",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": null,
+    "elementitem": 111,
+    "periodicity": 1
+    },
+    {
+    "id": 1410,
+    "name": "111Aryshire",
+    "display_name": "Aryshire",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": null,
+    "elementitem": 111,
+    "periodicity": 1
+    },
+    {
+    "id": 1605,
+    "name": "MaizeCropsPrimaryImportQuantity",
+    "display_name": "Maize",
+    "codingsystem": null,
+    "description": "",
+    "itemcategory": 5,
+    "elementitem": 115,
+    "periodicity": null
+    },
+    {
+    "id": 1612,
+    "name": "GreengramCostInsuranceFreightCIFValueImportValue",
+    "display_name": "Greengram",
+    "codingsystem": null,
+    "description": "",
+    "itemcategory": 5,
+    "elementitem": 116,
+    "periodicity": 1
+    },
+    {
+    "id": 1606,
+    "name": "GreengramCropsPrimaryImportQuantity",
+    "display_name": "Greengrams",
+    "codingsystem": null,
+    "description": "",
+    "itemcategory": 5,
+    "elementitem": 115,
+    "periodicity": null
+    },
+    {
+    "id": 1613,
+    "name": "MaizeCostInsuranceFreightCIFValueImportValue",
+    "display_name": "Maize",
+    "codingsystem": null,
+    "description": "",
+    "itemcategory": 5,
+    "elementitem": 116,
+    "periodicity": 1
+    },
+    {
+    "id": 1506,
+    "name": "BusiaCanedeliveriesCanedeliveriesCropPrimary",
+    "display_name": "Busia Cane deliveries",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 113,
+    "periodicity": 1
+    },
+    {
+    "id": 1507,
+    "name": "ButaliCanedeliveriesCanedeliveriesCropPrimary",
+    "display_name": "Butali Cane deliveries",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 113,
+    "periodicity": 1
+    },
+    {
+    "id": 1508,
+    "name": "ChemelilCanedeliveriesCanedeliveriesCropPrimary",
+    "display_name": "Chemelil Cane deliveries",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 113,
+    "periodicity": 1
+    },
+    {
+    "id": 1509,
+    "name": "KibosCanedeliveriesCanedeliveriesCropPrimary",
+    "display_name": "Kibos Cane deliveries",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 113,
+    "periodicity": 1
+    },
+    {
+    "id": 1510,
+    "name": "KwaleCanedeliveriesCanedeliveriesCropPrimary",
+    "display_name": "Kwale Cane deliveries",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 113,
+    "periodicity": 1
+    },
+    {
+    "id": 1511,
+    "name": "MuhoroniCanedeliveriesCanedeliveriesCropPrimary",
+    "display_name": "Muhoroni Cane deliveries",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 113,
+    "periodicity": 1
+    },
+    {
+    "id": 1512,
+    "name": "MumiasCanedeliveriesCanedeliveriesCropPrimary",
+    "display_name": "Mumias Cane deliveries",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 113,
+    "periodicity": 1
+    },
+    {
+    "id": 1513,
+    "name": "NzoiaCanedeliveriesCanedeliveriesCropPrimary",
+    "display_name": "Nzoia Cane deliveries",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 113,
+    "periodicity": 1
+    },
+    {
+    "id": 1514,
+    "name": "OlepitoCanedeliveriesCanedeliveriesCropPrimary",
+    "display_name": "Olepito Cane deliveries",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 113,
+    "periodicity": 1
+    },
+    {
+    "id": 1515,
+    "name": "SoinCanedeliveriesCanedeliveriesCropPrimary",
+    "display_name": "Soin Cane deliveries",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 113,
+    "periodicity": 1
+    },
+    {
+    "id": 1516,
+    "name": "SouthCanedeliveriesCanedeliveriesCropPrimary",
+    "display_name": "South Cane deliveries",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 113,
+    "periodicity": 1
+    },
+    {
+    "id": 1517,
+    "name": "SukariCanedeliveriesCanedeliveriesCropPrimary",
+    "display_name": "Sukari Cane deliveries",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 113,
+    "periodicity": 1
+    },
+    {
+    "id": 1518,
+    "name": "TransmaraCanedeliveriesCanedeliveriesCropPrimary",
+    "display_name": "Transmara Cane deliveries",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 113,
+    "periodicity": 1
+    },
+    {
+    "id": 1519,
+    "name": "WestCanedeliveriesCanedeliveriesCropPrimary",
+    "display_name": "West Cane deliveries",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 113,
+    "periodicity": 1
+    },
+    {
+    "id": 1520,
+    "name": "AfricanNightshade(ManaguMnavu)CropAreaCropPrimary",
+    "display_name": "African Nightshade (Managu/Mnavu)",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 1,
+    "periodicity": 1
+    },
+    {
+    "id": 1521,
+    "name": "ApplesCropAreaCropPrimary",
+    "display_name": "Apples",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 1,
+    "periodicity": 1
+    },
+    {
+    "id": 1522,
+    "name": "AvocadoCropAreaCropPrimary",
+    "display_name": "Avocado",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 1,
+    "periodicity": 1
+    },
+    {
+    "id": 1523,
+    "name": "BananaCropAreaCropPrimary",
+    "display_name": "Banana",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 1,
+    "periodicity": 1
+    },
+    {
+    "id": 1524,
+    "name": "cashewnutCropAreaCropPrimary",
+    "display_name": "cashewnut",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 1,
+    "periodicity": 1
+    },
+    {
+    "id": 1525,
+    "name": "coconutCropAreaCropPrimary",
+    "display_name": "coconut",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 1,
+    "periodicity": 1
+    },
+    {
+    "id": 1526,
+    "name": "CoffeeCropAreaCropPrimary",
+    "display_name": "Coffee",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 1,
+    "periodicity": 1
+    },
+    {
+    "id": 1527,
+    "name": "Coriander(Dania)CropAreaCropPrimary",
+    "display_name": "Coriander (Dania)",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 1,
+    "periodicity": 1
+    },
+    {
+    "id": 1528,
+    "name": "CottonCropAreaCropPrimary",
+    "display_name": "Cotton",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 1,
+    "periodicity": 1
+    },
+    {
+    "id": 1529,
+    "name": "CowpeaCropAreaCropPrimary",
+    "display_name": "Cowpea",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 1,
+    "periodicity": 1
+    },
+    {
+    "id": 1530,
+    "name": "LeafAmaranth(MchichaTerere)CropAreaCropPrimary",
+    "display_name": "Leaf Amaranth (Mchicha/Terere)",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 1,
+    "periodicity": 1
+    },
+    {
+    "id": 1531,
+    "name": "MacademiaCropAreaCropPrimary",
+    "display_name": "Macademia",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 1,
+    "periodicity": 1
+    },
+    {
+    "id": 1532,
+    "name": "MangoCropAreaCropPrimary",
+    "display_name": "Mango",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 1,
+    "periodicity": 1
+    },
+    {
+    "id": 1533,
+    "name": "OrangeCropAreaCropPrimary",
+    "display_name": "Orange",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 1,
+    "periodicity": 1
+    },
+    {
+    "id": 1534,
+    "name": "PawpawCropAreaCropPrimary",
+    "display_name": "Pawpaw",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 1,
+    "periodicity": 1
+    },
+    {
+    "id": 1535,
+    "name": "PineapplesCropAreaCropPrimary",
+    "display_name": "Pineapples",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 1,
+    "periodicity": 1
+    },
+    {
+    "id": 1536,
+    "name": "pyrethrumCropAreaCropPrimary",
+    "display_name": "pyrethrum",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 1,
+    "periodicity": 1
+    },
+    {
+    "id": 1537,
+    "name": "SisalCropAreaCropPrimary",
+    "display_name": "Sisal",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 1,
+    "periodicity": 1
+    },
+    {
+    "id": 1538,
+    "name": "SpringonionCropAreaCropPrimary",
+    "display_name": "Spring onion ",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 1,
+    "periodicity": 1
+    },
+    {
+    "id": 1539,
+    "name": "SugarcaneCropAreaCropPrimary",
+    "display_name": "Sugarcane",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 1,
+    "periodicity": 1
+    },
+    {
+    "id": 1540,
+    "name": "TeaCropAreaCropPrimary",
+    "display_name": "Tea",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 1,
+    "periodicity": 1
+    },
+    {
+    "id": 1541,
+    "name": "Vegetables,BulbOnionCropAreaCropPrimary",
+    "display_name": "Vegetables, Bulb Onion",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 1,
+    "periodicity": 1
+    },
+    {
+    "id": 1542,
+    "name": "Vegetables,CabbagesCropAreaCropPrimary",
+    "display_name": "Vegetables, Cabbages",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 1,
+    "periodicity": 1
+    },
+    {
+    "id": 1543,
+    "name": "Vegetables,GardenPeasCropAreaCropPrimary",
+    "display_name": "Vegetables, Garden Peas",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 1,
+    "periodicity": 1
+    },
+    {
+    "id": 1544,
+    "name": "Vegetables,Kales(SukumaWiki)CropAreaCropPrimary",
+    "display_name": "Vegetables, Kales (Sukuma Wiki)",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 1,
+    "periodicity": 1
+    },
+    {
+    "id": 1545,
+    "name": "Vegetables,TomatoesCropAreaCropPrimary",
+    "display_name": "Vegetables, Tomatoes",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 1,
+    "periodicity": 1
+    },
+    {
+    "id": 1546,
+    "name": "WatermelonCropAreaCropPrimary",
+    "display_name": "Watermelon",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 1,
+    "periodicity": 1
+    },
+    {
+    "id": 1547,
+    "name": "AfricanNightshade(ManaguMnavu)ProductionQuantityCropPrimary",
+    "display_name": "African Nightshade (Managu/Mnavu)",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 2,
+    "periodicity": 1
+    },
+    {
+    "id": 1548,
+    "name": "ApplesProductionQuantityCropPrimary",
+    "display_name": "Apples",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 2,
+    "periodicity": 1
+    },
+    {
+    "id": 1549,
+    "name": "AvocadoProductionQuantityCropPrimary",
+    "display_name": "Avocado",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 2,
+    "periodicity": 1
+    },
+    {
+    "id": 1550,
+    "name": "BananaProductionQuantityCropPrimary",
+    "display_name": "Banana",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 2,
+    "periodicity": 1
+    },
+    {
+    "id": 1551,
+    "name": "cashewnutProductionQuantityCropPrimary",
+    "display_name": "cashewnut",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 2,
+    "periodicity": 1
+    },
+    {
+    "id": 1552,
+    "name": "coconutProductionQuantityCropPrimary",
+    "display_name": "coconut",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 2,
+    "periodicity": 1
+    },
+    {
+    "id": 1553,
+    "name": "CoffeeProductionQuantityCropPrimary",
+    "display_name": "Coffee",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 2,
+    "periodicity": 1
+    },
+    {
+    "id": 1554,
+    "name": "Coriander(Dania)ProductionQuantityCropPrimary",
+    "display_name": "Coriander (Dania)",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 2,
+    "periodicity": 1
+    },
+    {
+    "id": 1555,
+    "name": "CottonProductionQuantityCropPrimary",
+    "display_name": "Cotton",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 2,
+    "periodicity": 1
+    },
+    {
+    "id": 1556,
+    "name": "CowpeaProductionQuantityCropPrimary",
+    "display_name": "Cowpea",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 2,
+    "periodicity": 1
+    },
+    {
+    "id": 1557,
+    "name": "LeafAmaranth(MchichaTerere)ProductionQuantityCropPrimary",
+    "display_name": "Leaf Amaranth (Mchicha/Terere)",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 2,
+    "periodicity": 1
+    },
+    {
+    "id": 1558,
+    "name": "MacademiaProductionQuantityCropPrimary",
+    "display_name": "Macademia",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 2,
+    "periodicity": 1
+    },
+    {
+    "id": 1559,
+    "name": "MangoProductionQuantityCropPrimary",
+    "display_name": "Mango",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 2,
+    "periodicity": 1
+    },
+    {
+    "id": 1560,
+    "name": "OrangeProductionQuantityCropPrimary",
+    "display_name": "Orange",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 2,
+    "periodicity": 1
+    },
+    {
+    "id": 1561,
+    "name": "PawpawProductionQuantityCropPrimary",
+    "display_name": "Pawpaw",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 2,
+    "periodicity": 1
+    },
+    {
+    "id": 1562,
+    "name": "PineapplesProductionQuantityCropPrimary",
+    "display_name": "Pineapples",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 2,
+    "periodicity": 1
+    },
+    {
+    "id": 1563,
+    "name": "pyrethrumProductionQuantityCropPrimary",
+    "display_name": "pyrethrum",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 2,
+    "periodicity": 1
+    },
+    {
+    "id": 1564,
+    "name": "SisalProductionQuantityCropPrimary",
+    "display_name": "Sisal",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 2,
+    "periodicity": 1
+    },
+    {
+    "id": 1565,
+    "name": "SpringonionProductionQuantityCropPrimary",
+    "display_name": "Spring onion ",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 2,
+    "periodicity": 1
+    },
+    {
+    "id": 1566,
+    "name": "TeaProductionQuantityCropPrimary",
+    "display_name": "Tea",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 2,
+    "periodicity": 1
+    },
+    {
+    "id": 1567,
+    "name": "Vegetables,BulbOnionProductionQuantityCropPrimary",
+    "display_name": "Vegetables, Bulb Onion",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 2,
+    "periodicity": 1
+    },
+    {
+    "id": 1568,
+    "name": "Vegetables,CabbagesProductionQuantityCropPrimary",
+    "display_name": "Vegetables, Cabbages",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 2,
+    "periodicity": 1
+    },
+    {
+    "id": 1569,
+    "name": "Vegetables,GardenPeasProductionQuantityCropPrimary",
+    "display_name": "Vegetables, Garden Peas",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 2,
+    "periodicity": 1
+    },
+    {
+    "id": 1570,
+    "name": "Vegetables,Kales(SukumaWiki)ProductionQuantityCropPrimary",
+    "display_name": "Vegetables, Kales (Sukuma Wiki)",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 2,
+    "periodicity": 1
+    },
+    {
+    "id": 1571,
+    "name": "Vegetables,TomatoesProductionQuantityCropPrimary",
+    "display_name": "Vegetables, Tomatoes",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 2,
+    "periodicity": 1
+    },
+    {
+    "id": 1572,
+    "name": "WatermelonProductionQuantityCropPrimary",
+    "display_name": "Watermelon",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 2,
+    "periodicity": 1
+    },
+    {
+    "id": 1573,
+    "name": "AfricanNightshade(ManaguMnavu)ProductionValueCropPrimary",
+    "display_name": "African Nightshade (Managu/Mnavu)",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 114,
+    "periodicity": 1
+    },
+    {
+    "id": 1574,
+    "name": "ApplesProductionValueCropPrimary",
+    "display_name": "Apples",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 114,
+    "periodicity": 1
+    },
+    {
+    "id": 1575,
+    "name": "AvocadoProductionValueCropPrimary",
+    "display_name": "Avocado",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 114,
+    "periodicity": 1
+    },
+    {
+    "id": 1576,
+    "name": "BananaProductionValueCropPrimary",
+    "display_name": "Banana",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 114,
+    "periodicity": 1
+    },
+    {
+    "id": 1577,
+    "name": "Coriander(Dania)ProductionValueCropPrimary",
+    "display_name": "Coriander (Dania)",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 114,
+    "periodicity": 1
+    },
+    {
+    "id": 1578,
+    "name": "CowpeaProductionValueCropPrimary",
+    "display_name": "Cowpea",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 114,
+    "periodicity": 1
+    },
+    {
+    "id": 1579,
+    "name": "LeafAmaranth(MchichaTerere)ProductionValueCropPrimary",
+    "display_name": "Leaf Amaranth (Mchicha/Terere)",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 114,
+    "periodicity": 1
+    },
+    {
+    "id": 1580,
+    "name": "MacademiaProductionValueCropPrimary",
+    "display_name": "Macademia",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 114,
+    "periodicity": 1
+    },
+    {
+    "id": 1581,
+    "name": "MangoProductionValueCropPrimary",
+    "display_name": "Mango",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 114,
+    "periodicity": 1
+    },
+    {
+    "id": 1582,
+    "name": "OrangeProductionValueCropPrimary",
+    "display_name": "Orange",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 114,
+    "periodicity": 1
+    },
+    {
+    "id": 1583,
+    "name": "PawpawProductionValueCropPrimary",
+    "display_name": "Pawpaw",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 114,
+    "periodicity": 1
+    },
+    {
+    "id": 1584,
+    "name": "PineapplesProductionValueCropPrimary",
+    "display_name": "Pineapples",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 114,
+    "periodicity": 1
+    },
+    {
+    "id": 1585,
+    "name": "SpringonionProductionValueCropPrimary",
+    "display_name": "Spring onion ",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 114,
+    "periodicity": 1
+    },
+    {
+    "id": 1586,
+    "name": "Vegetables,BulbOnionProductionValueCropPrimary",
+    "display_name": "Vegetables, Bulb Onion",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 114,
+    "periodicity": 1
+    },
+    {
+    "id": 1587,
+    "name": "Vegetables,CabbagesProductionValueCropPrimary",
+    "display_name": "Vegetables, Cabbages",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 114,
+    "periodicity": 1
+    },
+    {
+    "id": 1588,
+    "name": "Vegetables,GardenPeasProductionValueCropPrimary",
+    "display_name": "Vegetables, Garden Peas",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 114,
+    "periodicity": 1
+    },
+    {
+    "id": 1589,
+    "name": "Vegetables,Kales(SukumaWiki)ProductionValueCropPrimary",
+    "display_name": "Vegetables, Kales (Sukuma Wiki)",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 114,
+    "periodicity": 1
+    },
+    {
+    "id": 1590,
+    "name": "Vegetables,TomatoesProductionValueCropPrimary",
+    "display_name": "Vegetables, Tomatoes",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 114,
+    "periodicity": 1
+    },
+    {
+    "id": 1591,
+    "name": "WatermelonProductionValueCropPrimary",
+    "display_name": "Watermelon",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 114,
+    "periodicity": 1
+    },
+    {
+    "id": 1592,
+    "name": "CoffeeCropYieldCropPrimary",
+    "display_name": "Coffee",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 3,
+    "periodicity": 1
+    },
+    {
+    "id": 1593,
+    "name": "CottonCropYieldCropPrimary",
+    "display_name": "Cotton",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 3,
+    "periodicity": 1
+    },
+    {
+    "id": 1594,
+    "name": "MacademiaCropYieldCropPrimary",
+    "display_name": "Macademia",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 3,
+    "periodicity": 1
+    },
+    {
+    "id": 1595,
+    "name": "SisalCropYieldCropPrimary",
+    "display_name": "Sisal",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 3,
+    "periodicity": 1
+    },
+    {
+    "id": 1596,
+    "name": "SugarcaneCropYieldCropPrimary",
+    "display_name": "Sugarcane",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 3,
+    "periodicity": 1
+    },
+    {
+    "id": 1597,
+    "name": "TeaCropYieldCropPrimary",
+    "display_name": "Tea",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 3,
+    "periodicity": 1
+    },
+    {
+    "id": 1598,
+    "name": "ProcessedTeaProductionQuantityCropsProcessed",
+    "display_name": "Processed Tea",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 112,
+    "periodicity": 1
+    },
+    {
+    "id": 1599,
+    "name": "SugarProductionQuantityCropsProcessed",
+    "display_name": "Sugar",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 112,
+    "periodicity": 1
+    },
+    {
+    "id": 1607,
+    "name": "CowpeasCropsPrimaryImportQuantity",
+    "display_name": "Cowpeas",
+    "codingsystem": null,
+    "description": "",
+    "itemcategory": 5,
+    "elementitem": 115,
+    "periodicity": null
+    },
+    {
+    "id": 1614,
+    "name": "MilletCostInsuranceFreightCIFValueImportValue",
+    "display_name": "Millet",
+    "codingsystem": null,
+    "description": "",
+    "itemcategory": 5,
+    "elementitem": 116,
+    "periodicity": 1
+    },
+    {
+    "id": 1714,
+    "name": "CarrotQuantityOfLocallyProducedSeeds",
+    "display_name": "Carrot",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 14,
+    "periodicity": 1
+    },
+    {
+    "id": 1715,
+    "name": "CeleryQuantityOfLocallyProducedSeeds",
+    "display_name": "Celery",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 14,
+    "periodicity": 1
+    },
+    {
+    "id": 1716,
+    "name": "Chinese cabbageQuantityOfLocallyProducedSeeds",
+    "display_name": "Chinese cabbage",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 14,
+    "periodicity": 1
+    },
+    {
+    "id": 1717,
+    "name": "ChivesQuantityOfLocallyProducedSeeds",
+    "display_name": "Chives",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 14,
+    "periodicity": 1
+    },
+    {
+    "id": 1718,
+    "name": "CorianderQuantityOfLocallyProducedSeeds",
+    "display_name": "Coriander",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 14,
+    "periodicity": 1
+    },
+    {
+    "id": 1719,
+    "name": "CottonQuantityOfLocallyProducedSeeds",
+    "display_name": "Cotton",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 14,
+    "periodicity": 1
+    },
+    {
+    "id": 1720,
+    "name": "CowpeasQuantityOfLocallyProducedSeeds",
+    "display_name": "Cowpeas",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 14,
+    "periodicity": 1
+    },
+    {
+    "id": 1721,
+    "name": "CucumberQuantityOfLocallyProducedSeeds",
+    "display_name": "Cucumber",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 14,
+    "periodicity": 1
+    },
+    {
+    "id": 1722,
+    "name": "DesmodiumQuantityOfLocallyProducedSeeds",
+    "display_name": "Desmodium",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 14,
+    "periodicity": 1
+    },
+    {
+    "id": 1723,
+    "name": "DillQuantityOfLocallyProducedSeeds",
+    "display_name": "Dill",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 14,
+    "periodicity": 1
+    },
+    {
+    "id": 1724,
+    "name": "Dolichos BeansQuantityOfLocallyProducedSeeds",
+    "display_name": "Dolichos Beans",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 14,
+    "periodicity": 1
+    },
+    {
+    "id": 1725,
+    "name": "EggPlantQuantityOfLocallyProducedSeeds",
+    "display_name": "EggPlant",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 14,
+    "periodicity": 1
+    },
+    {
+    "id": 1726,
+    "name": "FennelQuantityOfLocallyProducedSeeds",
+    "display_name": "Fennel",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 14,
+    "periodicity": 1
+    },
+    {
+    "id": 1727,
+    "name": "Finger MilletQuantityOfLocallyProducedSeeds",
+    "display_name": "Finger Millet",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 14,
+    "periodicity": 1
+    },
+    {
+    "id": 1728,
+    "name": "GreengramsQuantityOfLocallyProducedSeeds",
+    "display_name": "Greengrams",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 14,
+    "periodicity": 1
+    },
+    {
+    "id": 1729,
+    "name": "GroundnutQuantityOfLocallyProducedSeeds",
+    "display_name": "Groundnut",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 14,
+    "periodicity": 1
+    },
+    {
+    "id": 1730,
+    "name": "Kikuyu grassQuantityOfLocallyProducedSeeds",
+    "display_name": "Kikuyu grass",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 14,
+    "periodicity": 1
+    },
+    {
+    "id": 1731,
+    "name": "LeekQuantityOfLocallyProducedSeeds",
+    "display_name": "Leek",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 14,
+    "periodicity": 1
+    },
+    {
+    "id": 1732,
+    "name": "LettuceQuantityOfLocallyProducedSeeds",
+    "display_name": "Lettuce",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 14,
+    "periodicity": 1
+    },
+    {
+    "id": 1733,
+    "name": "LucerneQuantityOfLocallyProducedSeeds",
+    "display_name": "Lucerne",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 14,
+    "periodicity": 1
+    },
+    {
+    "id": 1734,
+    "name": "MaizeQuantityOfLocallyProducedSeeds",
+    "display_name": "Maize",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 14,
+    "periodicity": 1
+    },
+    {
+    "id": 1735,
+    "name": "OatQuantityOfLocallyProducedSeeds",
+    "display_name": "Oat",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 14,
+    "periodicity": 1
+    },
+    {
+    "id": 1736,
+    "name": "OkraQuantityOfLocallyProducedSeeds",
+    "display_name": "Okra",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 14,
+    "periodicity": 1
+    },
+    {
+    "id": 1737,
+    "name": "OnionQuantityOfLocallyProducedSeeds",
+    "display_name": "Onion",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 14,
+    "periodicity": 1
+    },
+    {
+    "id": 1738,
+    "name": "ParsleyQuantityOfLocallyProducedSeeds",
+    "display_name": "Parsley",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 14,
+    "periodicity": 1
+    },
+    {
+    "id": 1739,
+    "name": "PastureQuantityOfLocallyProducedSeeds",
+    "display_name": "Pasture",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 14,
+    "periodicity": 1
+    },
+    {
+    "id": 1740,
+    "name": "PawpawQuantityOfLocallyProducedSeeds",
+    "display_name": "Pawpaw",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 14,
+    "periodicity": 1
+    },
+    {
+    "id": 1741,
+    "name": "PearlmilletQuantityOfLocallyProducedSeeds",
+    "display_name": "Pearlmillet",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 14,
+    "periodicity": 1
+    },
+    {
+    "id": 1742,
+    "name": "PeasQuantityOfLocallyProducedSeeds",
+    "display_name": "Peas",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 14,
+    "periodicity": 1
+    },
+    {
+    "id": 1743,
+    "name": "Pigeon peasQuantityOfLocallyProducedSeeds",
+    "display_name": "Pigeon peas",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 14,
+    "periodicity": 1
+    },
+    {
+    "id": 1744,
+    "name": "PotatoQuantityOfLocallyProducedSeeds",
+    "display_name": "Potato",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 14,
+    "periodicity": 1
+    },
+    {
+    "id": 1745,
+    "name": "Pumpki/SquashQuantityOfLocallyProducedSeeds",
+    "display_name": "Pumpki/Squash",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 14,
+    "periodicity": 1
+    },
+    {
+    "id": 1746,
+    "name": "PumpkinQuantityOfLocallyProducedSeeds",
+    "display_name": "Pumpkin",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 14,
+    "periodicity": 1
+    },
+    {
+    "id": 1747,
+    "name": "RadishQuantityOfLocallyProducedSeeds",
+    "display_name": "Radish",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 14,
+    "periodicity": 1
+    },
+    {
+    "id": 1748,
+    "name": "RiceQuantityOfLocallyProducedSeeds",
+    "display_name": "Rice",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 14,
+    "periodicity": 1
+    },
+    {
+    "id": 1749,
+    "name": "RoquetteQuantityOfLocallyProducedSeeds",
+    "display_name": "Roquette",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 14,
+    "periodicity": 1
+    },
+    {
+    "id": 1750,
+    "name": "RyegrassQuantityOfLocallyProducedSeeds",
+    "display_name": "Ryegrass",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 14,
+    "periodicity": 1
+    },
+    {
+    "id": 1751,
+    "name": "SorghumQuantityOfLocallyProducedSeeds",
+    "display_name": "Sorghum",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 14,
+    "periodicity": 1
+    },
+    {
+    "id": 1752,
+    "name": "SoyabeanQuantityOfLocallyProducedSeeds",
+    "display_name": "Soyabean",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 14,
+    "periodicity": 1
+    },
+    {
+    "id": 1753,
+    "name": "Spider plantQuantityOfLocallyProducedSeeds",
+    "display_name": "Spider plant",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 14,
+    "periodicity": 1
+    },
+    {
+    "id": 1754,
+    "name": "SpinachQuantityOfLocallyProducedSeeds",
+    "display_name": "Spinach",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 14,
+    "periodicity": 1
+    },
+    {
+    "id": 1755,
+    "name": "Sudan grassQuantityOfLocallyProducedSeeds",
+    "display_name": "Sudan grass",
+    "codingsystem": null,
+    "description": null,
+    "itemcategory": 5,
+    "elementitem": 14,
+    "periodicity": 1
+    }
+    ] 
+}  
+   
+    
