@@ -5,7 +5,7 @@ import Navbar from "./components/nav/Navbar";
 import Highlights from "./components/highlights/Highlights";
 import Commodity from "./components/commodities/Commodity";
 import Home from "./components/home/Home";
-import Data from "./components/data/Data";
+
 
 function App() {
   return (
@@ -13,7 +13,7 @@ function App() {
       <BrowserRouter>
         <Commodity />
         <Navbar />
-        <Data />
+       
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/carousel" element={<Carousel />} />

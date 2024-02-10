@@ -1,12 +1,12 @@
 import Carousel from "../carousel/Carousel"
-import MyPopover from "../popover/MyPopover"
+import LineChart from "../charts/LineChart"
 
 
 const Home = () => {
   return (
     <div>
       <Carousel />
-     
+      <LineChart />
     </div>
   )
 }
