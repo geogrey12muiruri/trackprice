@@ -11,6 +11,8 @@
   },
   "dependencies": {
     "@headlessui/react": "^1.7.18",
+    "@heroicons/react": "^2.1.1",
+    "apexcharts": "^3.45.2",
     "chartjs-adapter-date-fns": "^3.0.0",
     "flowbite-react": "^0.7.2",
     "framer-motion": "^11.0.3",
@@ -22,6 +24,7 @@
     "react-responsive-carousel": "^3.2.23",
     "react-router-dom": "^6.22.0",
     "react-slick": "^0.30.1",
+    "recharts": "^2.12.0",
     "slick-carousel": "^1.8.1",
     "swiper": "^11.0.6"
   },

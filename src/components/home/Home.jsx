@@ -1,12 +1,14 @@
 import Carousel from "../carousel/Carousel"
-import LineChart from "../charts/LineChart"
+import MyChart from "../charts/MyChart"
+import MarketSnapshotChart from "../highlights/MarketSnapshotChart"
 
 
 const Home = () => {
   return (
     <div>
-      <Carousel />
-      <LineChart />
+      <Carousel />     
+      <MyChart /> 
+      <MarketSnapshotChart />
     </div>
   )
 }

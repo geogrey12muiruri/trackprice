@@ -6,3 +6,19 @@ Commodities: Display a searchable list of agricultural commodities available for
 Watchlist: Provide dedicated access to the user's personalized list of tracked commodities and their current prices.
 Price Alerts: Offer settings for notification thresholds and preferences for price change alerts.
 News & Insights: Integrate relevant news articles, market analysis reports, or expert viewpoints for contextual understanding.
+## Authentication
+
+-signup
+-login
+email and username
+google authentication
+
+
+## backend
+ruby on rails
+
+## database
+mongodb node js
+
+const COLORS = ["#16a34a", "#4c0519", "#1e1b4b"];
+
