@@ -30,8 +30,7 @@
 
 body {
   font-family: 'Roboto', sans-serif;
-  background-color: var(--secondary);
-  color: var(--text-strong);
+  padding: 150px 0 0 0;
 
 }
 
