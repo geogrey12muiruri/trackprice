@@ -11,7 +11,7 @@ const Navbar = () => {
   return (
     <div>
       <header className=" mx-auto bg-white max-w-7xl boder-b mt-50 "  >
-        <nav className='flex sticky items-center justify-between p-4 md:p-6 lg:px-8 ' style={{ height: '100px', width: '100%', zIndex: '60' }} >
+        <nav className='flex sticky items-center justify-between p-4 md:p-6 lg:px-8 ' style={{ height: '100px', width: '100%', zIndex: '60', marginTop: '150px' }} >
         <div>
           <a href='/' className='flex py-3 px-6 item-center gap-1 text-lg font-mono fonto-bold shadow-md shadow-green-500/20 transition-all hover:shadow-lg hover:shadow-green-500/40 active:opacity-[0.85] disabled:pointer-events-none disabled:opacity-50 disabled:shadow-none rounded-lg mr-3'>
           <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" class="w-6 h-6" >
@@ -67,9 +67,9 @@ const Navbar = () => {
         <a href='/login' className='hidden md:block items-center justify-center px-4 py-2 text-lg font-mono font-medium text-white bg-green-400 rounded-md hover:bg-green-500'>Login</a>
 
         </nav>
-        <Dialog as='div' className={'md:hidden'} open={mobile} onClose={setMobile}>
+        <Dialog as='div' className={'md:hidden'} open={mobile} onClose={setMobile} styles={{marginTop: '150px'}}>
             <div className='fixed inset-0 z-50 bg-gray-50 bg-opacity-80'/>
-            <Dialog.Panel className='fixed inset-y-0 right-0 z-50 overlay-y-auto bg-gray-50 bg-opacity-80 px-6 py-6 sm:max-w-sm sm:ring-1 sm:ring-text/10'>
+            <Dialog.Panel className='fixed inset-y-0 right-0 z-50 overlay-y-auto bg-gray-50 bg-opacity-80 px-6 py-6 sm:max-w-sm sm:ring-1 sm:ring-text/10' style={{paddingTop: '250px'}} styles={{marginTop: '250px'}}>
               <div className='flex justify-between'>
               <a href='/' className='flex py-3 px-6 item-center gap-1 text-lg font-mono fonto-bold shadow-md shadow-green-500/20 transition-all hover:shadow-lg hover:shadow-green-500/40 active:opacity-[0.85] disabled:pointer-events-none disabled:opacity-50 disabled:shadow-none rounded-lg mr-3'>
           <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" class="w-6 h-6" >

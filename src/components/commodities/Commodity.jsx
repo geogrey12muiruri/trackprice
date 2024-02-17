@@ -9,9 +9,7 @@ import Commodity5 from '../../assets/marquee/sukumawiki.png';
 const Commodity = () => {
   return (
     <div className="bg-white commodity-container overflow-hidden fixed top-0" style={{ height: '100px', width: '100%', zIndex: '9000' }}>
-      <div className='title text-center'>
-        <h1>trending commodities</h1>
-      </div>
+      
       <div>
       <div className='flex gap-4 '>
       <Marquee >
