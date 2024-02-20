@@ -2,6 +2,7 @@ import React, { useState } from 'react'
 import { TextInput, Label, Button, Alert, Spinner } from 'flowbite-react'
 import { Link, useNavigate } from 'react-router-dom'
 import OAuth from '../components/OAuth';
+import ChartComponent from '../components/charts/ChartComponent';
 
 
 const SignUp = () => {
@@ -42,20 +43,17 @@ const SignUp = () => {
   } 
  
   return (
-    <div className='min-h-screen mt-20'>
-    <div className='flex p-3 max-w-3xl mx-auto flex-col md:flex-row md:items-center'>
+    <div className='min-h-screen '>
+    <div className='flex p-3 max-w-7xl mx-auto flex-col md:flex-row md:items-center'>
     {/* left side */}
-    <div className='flex-1'>
-    <Link to='/' className='self-center whitespace-nowrap text-sm sm:text-xl font-semibold dark:text-white'>
-    <span className='px-2 py-1 bg-gradient-to-r from-indigo-500 via-gray-900 to-slate-950 rounded-lg text-white '>Parrot's</span> Blog
-
-    </Link>
-    <p className='text-sm mt-5'>Welcome to my blog signup and share your thoughts </p>
-
+    <div >
+          <ChartComponent />
     </div>
     {/* right side */}
-    <div className='flex-1' onSubmit={handleSubmit}>
+    <div className='flex-1' style={{marginLeft: '150px'}} onSubmit={handleSubmit}>
       <form onSubmit={handleSubmit} >
+        <h2 className='text-2xl font-bold'>Create an Account to Get Personalized insights and Market Updates</h2>
+        {/* form fields */}
       <div>
               <Label value='Your username' />
               <TextInput

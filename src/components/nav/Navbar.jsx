@@ -64,7 +64,7 @@ const Navbar = () => {
             </li>
           </ul>
         </div>
-        <a href='/login' className='hidden md:block items-center justify-center px-4 py-2 text-lg font-mono font-medium text-white bg-green-400 rounded-md hover:bg-green-500'>Login</a>
+        <a href='/sign-in' className='hidden md:block items-center justify-center px-4 py-2 text-lg font-mono font-medium text-white bg-green-400 rounded-md hover:bg-green-500'>Login</a>
 
         </nav>
         <Dialog as='div' className={'md:hidden'} open={mobile} onClose={setMobile} styles={{marginTop: '150px'}}>
