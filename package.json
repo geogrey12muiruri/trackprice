@@ -12,6 +12,7 @@
   "dependencies": {
     "@headlessui/react": "^1.7.18",
     "@heroicons/react": "^2.1.1",
+    "@reduxjs/toolkit": "^2.2.1",
     "apexcharts": "^3.45.2",
     "chartjs-adapter-date-fns": "^3.0.0",
     "firebase": "^10.8.0",

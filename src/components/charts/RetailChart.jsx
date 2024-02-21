@@ -15,21 +15,23 @@ const RetailChart = () => {
   return(
     <div className="bg-slate-50 rounded-md w-full">
       <h1 className="text-center font-sanserif font-bold">Weekly Retail Averages</h1>
-      <LineChart width={700} height={400} data={weeklyRetailAverages} className="bg-slate-50 rounded-md">
-        <XAxis dataKey="DateTime" />
-        <YAxis interval={0} tickCount={6} domain={[0, 1500]}>
-          <Label angle={-90} value='Retail Prices' position='insideLeft' style={{textAnchor: 'middle'}} />
-        </YAxis>
-        <Tooltip />
-        <CartesianGrid stroke="#ccc" />
-        <Legend verticalAlign="bottom" wrapperStyle={{ paddingTop: "40px" }}/>
-        <Line activeOpacity={0.05} type="monotone" dataKey="Dry Maize" stroke="#F44236" strokeWidth={1} dot={false} />
-        <Line activeOpacity={0.05} type="monotone" dataKey="Beans (Yellow-Green)" stroke="#8884d8" strokeWidth={1} dot={false} />
-        <Line activeOpacity={0.05} type="monotone" dataKey="Red Irish potato" stroke="#82ca9d" strokeWidth={1} dot={false} />
-        <Line activeOpacity={0.05} type="monotone" dataKey="Tilapia" stroke="#123456" strokeWidth={1} dot={false} />
-        <Line activeOpacity={0.05} type="monotone" dataKey="Meat Beef" stroke="#654321" strokeWidth={1} dot={false} />
-        <Line activeOpacity={0.05} type="monotone" dataKey="Kales/Sukuma Wiki" stroke="#abcdef" strokeWidth={1} dot={false} />
-      </LineChart>
+      <div className="container">
+        <LineChart width={500} height={400} data={weeklyRetailAverages} className="bg-slate-50 rounded-md">
+          <XAxis dataKey="DateTime" />
+          <YAxis interval={0} tickCount={6} domain={[0, 1500]}>
+            <Label angle={-90} value='Retail Prices' position='insideLeft' style={{textAnchor: 'middle'}} />
+          </YAxis>
+          <Tooltip />
+          <CartesianGrid stroke="#ccc" />
+          <Legend verticalAlign="bottom" wrapperStyle={{ paddingTop: "40px" }}/>
+          <Line activeOpacity={0.05} type="monotone" dataKey="Dry Maize" stroke="#F44236" strokeWidth={1} dot={false} />
+          <Line activeOpacity={0.05} type="monotone" dataKey="Beans (Yellow-Green)" stroke="#8884d8" strokeWidth={1} dot={false} />
+          <Line activeOpacity={0.05} type="monotone" dataKey="Red Irish potato" stroke="#82ca9d" strokeWidth={1} dot={false} />
+          <Line activeOpacity={0.05} type="monotone" dataKey="Tilapia" stroke="#123456" strokeWidth={1} dot={false} />
+          <Line activeOpacity={0.05} type="monotone" dataKey="Meat Beef" stroke="#654321" strokeWidth={1} dot={false} />
+          <Line activeOpacity={0.05} type="monotone" dataKey="Kales/Sukuma Wiki" stroke="#abcdef" strokeWidth={1} dot={false} />
+        </LineChart>
+      </div>
     </div>
   )
 };

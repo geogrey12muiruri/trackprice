@@ -22,3 +22,20 @@ mongodb node js
 
 const COLORS = ["#16a34a", "#4c0519", "#1e1b4b"];
 
+https://ibb.co/ZcDYWNm
+https://ibb.co/RCxYf7h
+https://ibb.co/6yRWtyX
+https://ibb.co/x3h71Kw
+https://ibb.co/S67RJwp
+https://ibb.co/K6zg71p
+
+
+https://ibb.co/pJ1kR6D beef
+https://ibb.co/GW2fhxh maize
+https://ibb.co/NL02wbH tomatoes
+https://ibb.co/BjPzxxS  cabbage
+https://ibb.co/BBQ1dyt  rice
+https://ibb.co/gTm1G1Z Green grams
+https://ibb.co/Btj6qSP irish potatoes
+https://ibb.co/XWw0LT8
+https://ibb.co/tMRB71v

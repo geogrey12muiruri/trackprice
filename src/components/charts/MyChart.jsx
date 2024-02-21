@@ -11,24 +11,50 @@ const data = [
 ];
 
 const MyChart = () => {
+  const breakpoints = {
+    tablet: 768,
+    mobile: 375,
+  };
+
+  const getResponsiveWidth = () => {
+    const { innerWidth } = window;
+    return innerWidth >= breakpoints.tablet ? innerWidth / 2 : innerWidth;
+  };
+
   return (
-    <div className="flex">
-      <div className="bg-slate-50 rounded-md w-1/2">
-        <h2 className="flex justify-center font-serif font-bold">Weekly Wholesale Average for Dry Maize</h2>
-        <LineChart width={700} height={400} data={data} className="bg-slate-50 rounded-md">
-          <XAxis dataKey="DateTime" />
-          <YAxis domain={[0, 70]}>
-            <Label angle={-90} value='Wholesale Prices' position='insideLeft' style={{ textAnchor: 'middle' }} className="font-bold" />
-          </YAxis>
-          <Tooltip />
-          <CartesianGrid stroke="#ccc" />
-          <Legend verticalAlign="bottom" wrapperStyle={{ paddingTop: "40px" }} />
-          <Line activeOpacity={0.05} type="monotone" dataKey="Meru" stroke="#831843" strokeWidth={1} />
-          <Line activeOpacity={0.05} type="monotone" dataKey="Nairobi" stroke="#1e40af" strokeWidth={1} />
-          <Line activeOpacity={0.05} type="monotone" dataKey="Nakuru" stroke="#22c55e" strokeWidth={1} />
-        </LineChart>
+    <div className="flex flex-col sm:flex-row w-full">
+      <div className="bg-slate-50 rounded-md w-full sm:w-1/2">
+        <h2 className="flex justify-center font-serif font-bold">
+          Weekly Wholesale Average for Dry Maize
+        </h2>
+        <div className="responsive-chart">
+          {/* Use viewport-relative units and responsive width function */}
+          <LineChart
+            width={getResponsiveWidth()}
+            height={getResponsiveWidth() * 0.6} // Maintain aspect ratio on resize
+            data={data}
+            className="bg-slate-50 rounded-md"
+          >
+            <XAxis dataKey="DateTime" />
+            <YAxis domain={[0, 70]}>
+              <Label
+                angle={-90}
+                value="Wholesale Prices"
+                position="insideLeft"
+                style={{ textAnchor: "middle" }}
+                className="font-bold"
+              />
+            </YAxis>
+            <Tooltip />
+            <CartesianGrid stroke="#ccc" />
+            <Legend verticalAlign="bottom" wrapperStyle={{ paddingTop: "40px" }} />
+            <Line activeOpacity={0.05} type="monotone" dataKey="Meru" stroke="#831843" strokeWidth={1} />
+            <Line activeOpacity={0.05} type="monotone" dataKey="Nairobi" stroke="#1e40af" strokeWidth={1} />
+            <Line activeOpacity={0.05} type="monotone" dataKey="Nakuru" stroke="#22c55e" strokeWidth={1} />
+          </LineChart>
+        </div>
       </div>
-      <div className="w-1/2">
+      <div className="w-full sm:w-1/2">
         <RetailChart />
       </div>
     </div>
