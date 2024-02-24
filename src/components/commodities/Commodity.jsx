@@ -13,7 +13,23 @@ const Commodity = () => {
           throw new Error('Network response was not ok');
         }
         const data = await response.json();
-        setProducts(data);
+
+        // Fetch market names for each product
+        // Fetch market names for each product
+const updatedProducts = await Promise.all(
+  data.map(async (product) => {
+    const marketId = product.prices[0].market; // Accessing marketId from prices array
+    const marketResponse = await fetch(`/api/market/${marketId}`);
+    if (!marketResponse.ok) {
+      throw new Error('Market response was not ok');
+    }
+    const marketData = await marketResponse.json();
+    const updatedProduct = { ...product, marketName: marketData.name };
+    return updatedProduct;
+  })
+);
+
+        setProducts(updatedProducts);
         setIsLoading(false);
       } catch (error) {
         console.error('Error fetching data:', error);
@@ -32,11 +48,11 @@ const Commodity = () => {
           {products.map((product, index) => (
             <div key={index} className="commodity-item flex gap-8">
               <div className="flex gap-4 p-4 mb-20 justify-center">
-                <img src={products.img} alt="commodity" className="commodity-image" style={{ width: '40px', height: '40px' }} />
+                <img src={product.img} alt="commodity" className="commodity-image" style={{ width: '40px', height: '40px' }} />
               </div>
               <div className="commodity-info text-sm font-bold">
                 <h3>{product.name}</h3>
-                <p>Market: {product.location.county}</p>
+                <p>Market: {product.marketName}</p>
                 <p>Price: {product.prices[0].retailPrice}</p>
               </div>
               <div className="separator-line bg-green-500 h-full w-px opacity-0 transition-opacity duration-300 hover:opacity-100"></div>
