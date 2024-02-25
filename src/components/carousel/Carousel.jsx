@@ -6,25 +6,7 @@ import CarouselImage2 from '../../assets/carousel/image3.jpg';
 import CarouselImage3 from '../../assets/carousel/image4.jpg';
 
 const CarouselComponent = () => {
-  const images = [CarouselImage1, CarouselImage2, CarouselImage3];
-  const [currentIndex, setCurrentIndex] = useState(0);
-
-  const nextImage = () => {
-    setCurrentIndex((currentIndex + 1) % images.length);
-  };
-
-  const prevImage = () => {
-    setCurrentIndex((currentIndex - 1 + images.length) % images.length);
-  };
-
-  useEffect(() => {
-    const interval = setInterval(() => {
-      setCurrentIndex((prevIndex) => (prevIndex + 1) % images.length);
-    }, 3000); // Change image every 3 seconds
-
-    return () => clearInterval(interval); // Clean up the interval on component unmount
-  }, [images.length]);
-
+  
   return (
     <div>
       <section className="bg-white dark:bg-gray-900 bg-[url('https://flowbite.s3.amazonaws.com/docs/jumbotron/hero-pattern.svg')] dark:bg-[url('https://flowbite.s3.amazonaws.com/docs/jumbotron/hero-pattern-dark.svg')]">
