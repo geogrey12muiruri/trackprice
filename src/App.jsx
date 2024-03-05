@@ -6,6 +6,7 @@ import Signin from './pages/SignIn'
 import Signup from './pages/SignUp'
 import Commodity from "./components/commodities/Commodity";
 import Home from "./components/home/Home";
+import DashboardComp from "./components/DashboardComp";
 
 
 
@@ -22,6 +23,7 @@ function App() {
           <Route path="/featured" element={<Featured />} />
           <Route path="/sign-in" element={<Signin />} />
           <Route path="/signup" element={<Signup />} />
+          <Route path="dashboard" element={<DashboardComp />} />
         </Routes>
       </BrowserRouter>
     </div>
