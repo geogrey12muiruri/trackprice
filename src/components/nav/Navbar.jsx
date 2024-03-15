@@ -33,38 +33,38 @@ const Navbar = () => {
         <div className='hidden md:flex md:space-x-8'>
           <ul className='flex space-x-8'>
             <li>
-              <a href='/' className={`${location.pathname === '/' ? active : inActive} hover:border-b-2 border-green-400 transition-all duration-300 ease-in-ou`}>
+              <a href='/' className={`${location.pathname === '/' ? active : inActive} hover:border-b-2 border-green-400 transition-all font-bold font-mono duration-300 ease-in-ou`}>
                 Home
               </a>
             </li>
             <li>
-              <a href='/about' className={`${location.pathname === '/about' ? active : inActive} hover:border-b-2  border-green-400 transition-all duration-300 ease-in-ou`}>
+              <a href='/about' className={`${location.pathname === '/about' ? active : inActive} hover:border-b-2  border-green-400 transition-all font-bold font-mono duration-300 ease-in-ou`}>
                 About
               </a>
             </li>
             <li>
-              <a href='/products'className={`${location.pathname === '/product' ? active : inActive} hover:border-b-2 border-green-400 transition-all duration-300 ease-in-ou`}>
+              <a href='/products'className={`${location.pathname === '/product' ? active : inActive} hover:border-b-2 border-green-400 transition-all font-bold font-mono duration-300 ease-in-ou`}>
                 Products
               </a>
             </li>
             <li>
-              <a href='/markets' className={`${location.pathname === '/markets' ? active : inActive} hover:border-b-2 border-green-400 transition-all duration-300 ease-in-ou`}>
+              <a href='/markets' className={`${location.pathname === '/markets' ? active : inActive} hover:border-b-2 border-green-400 transition-all font-bold font-mono duration-300 ease-in-ou`}>
                 Markets
               </a>
             </li>
             <li>
-              <a href='/dashboard' className={`${location.pathname === '/dashboard' ? active : inActive} hover:border-b-2 border-green-400 transition-all duration-300 ease-in-ou`}>
+              <a href='/dashboard' className={`${location.pathname === '/dashboard' ? active : inActive} hover:border-b-2 border-green-400 transition-all font-bold font-mono duration-300 ease-in-ou`}>
                 dashboard
               </a>
             </li>
             <li>
-              <a href='/contact' className={`${location.pathname === '/contact' ? active : inActive} hover:border-b-2 border-green-400 transition-all duration-300 ease-in-ou`}>
+              <a href='/contact' className={`${location.pathname === '/contact' ? active : inActive} hover:border-b-2 border-green-400 transition-all font-bold font-mono duration-300 ease-in-ou`}>
                 Contact
               </a>
             </li>
           </ul>
         </div>
-        <a href='/sign-in' className='hidden md:block items-center justify-center px-4 py-2 text-lg font-mono font-medium text-white bg-green-400 rounded-md hover:bg-green-500'>Login</a>
+        <a href='/sign-in' className='hidden md:block items-center justify-center px-4 py-2 text-lg font-mono font-medium text-white bg-green-400 rounded-md hover:bg-green-500' outline>Login</a>
 
         </nav>
         <Dialog as='div' className={'md:hidden'} open={mobile} onClose={setMobile} styles={{marginTop: '150px'}}>

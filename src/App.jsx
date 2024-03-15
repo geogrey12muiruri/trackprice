@@ -7,6 +7,10 @@ import Signup from './pages/SignUp'
 import Commodity from "./components/commodities/Commodity";
 import Home from "./components/home/Home";
 import DashboardComp from "./components/DashboardComp";
+import MarketComponent from "./components/markets/MarketComponent";
+import AveragePriceChart from "./components/charts/AveragePriceChart";
+import DashUsers from "./components/DashUsers";
+import Footer from "./components/footer/Footer";
 
 
 
@@ -24,7 +28,11 @@ function App() {
           <Route path="/sign-in" element={<Signin />} />
           <Route path="/signup" element={<Signup />} />
           <Route path="dashboard" element={<DashboardComp />} />
+          <Route path="/markets" element={<MarketComponent />} />
+          <Route path="/average" element={<AveragePriceChart />} />
+          <Route path="/user-dash" element={<DashUsers />} />
         </Routes>
+        <Footer />
       </BrowserRouter>
     </div>
   );
