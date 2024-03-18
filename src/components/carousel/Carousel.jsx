@@ -76,6 +76,11 @@ const CarouselComponent = () => {
             {/* Repeat for other icons */}
 
           </div>
+          
+          <div className="text-center">
+            <Link to="/supplier" className="inline-block px-8 py-4 rounded-full bg-emerald-600 text-white font-bold hover:bg-emerald-700">Get Started as a Supplier</Link>
+          </div>
+          
         </div>
       </section>
     </div>
